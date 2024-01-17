@@ -1,0 +1,1672 @@
+
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+	<title>Банки | Эксперт РА</title>
+<meta name="keywords" content="рейтинг банков, рейтинги банков, рейтинг кредитоспособности банков, банковские рейтинги, рейтинг банка, рейтинги кредитоспособности банков, рейтинг надёжности банков, надежность банков" >
+<meta name="description" content="Рейтинг кредитоспособности банка - мнение рейтингового агентства «Эксперт РА» о способности банка своевременно и в полном объеме выполнять свои финансовые обязательства" >
+<script type="text/javascript" src="https://gc.kis.v2.scr.kaspersky-labs.com/FD126C42-EBFA-4E12-B309-BB3FDD723AC1/main.js?attr=Hynw_tSJlIv-mfbmaXvpgJ9nuN4FhfYXHNJO_VEvt4AAeko_ALG-6X-nfZ77Gok3nIRavxUj-vScjPjppNGtqA" charset="UTF-8"></script><base href="/" />
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="robots" content="noyaca"/>
+<meta name="theme-color" content="">
+<meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+<link rel="shortcut icon" href=/ico/favico.png type="image/x-icon">
+<link rel="apple-touch-icon" href=/img/favicons/apple-touch-icon.png>
+<link rel="apple-touch-icon" sizes="57x57" href=/img/favicons/apple-touch-icon-57x57.png>
+<link rel="apple-touch-icon" sizes="72x72" href=/img/favicons/apple-touch-icon-72x72.png>
+<link rel="apple-touch-icon" sizes="76x76" href=/img/favicons/apple-touch-icon-76x76.png>
+<link rel="apple-touch-icon" sizes="114x114" href=/img/favicons/apple-touch-icon-114x114.png>
+<link rel="apple-touch-icon" sizes="120x120" href=/img/favicons/apple-touch-icon-120x120.png>
+<link rel="apple-touch-icon" sizes="144x144" href=/img/favicons/apple-touch-icon-144x144.png>
+<link rel="apple-touch-icon" sizes="152x152" href=/img/favicons/apple-touch-icon-152x152.png>
+<link rel="apple-touch-icon" sizes="180x180" href=/img/favicons/apple-touch-icon-180x180.png>
+<script>
+    var random = Math.floor(Math.random() * 100000000) + 1;
+    document.write('<link rel="stylesheet" href=/styles/main.min.css?' + random + '">');
+</script>
+
+<!-- Schema.org markup for Google+ -->
+<meta itemprop="name" content="Банки | Эксперт РА"><meta itemprop="description" content="Рейтинг кредитоспособности банка - мнение рейтингового агентства «Эксперт РА» о способности банка своевременно и в полном объеме выполнять свои финансовые обязательства"><meta itemprop="image" content="https://raexpert.ru/_aaa/logo430a.png">
+
+<!-- Twitter Card data -->
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@ra_expert">
+<meta name="twitter:title" content="Банки | Эксперт РА">
+<meta name="twitter:description" content="Рейтинг кредитоспособности банка - мнение рейтингового агентства «Эксперт РА» о способности банка своевременно и в полном объеме выполнять свои финансовые обязательства">
+<meta name="twitter:creator" content="@ra_expert">
+<!-- Twitter summary card with large image must be at least 280x150px -->
+<meta name="twitter:image:src" content="https://raexpert.ru/_aaa/logo430a.png">
+
+<!-- Open Graph data -->
+<meta property="og:title" content="Банки | Эксперт РА" /><meta property="og:type" content="article" />
+<meta property="og:url" content="raexpert.ru" />
+<meta property="og:image" content="https://raexpert.ru/_aaa/logo430a.png" />
+<meta property="og:image:width" content="430" />
+<meta property="og:image:height" content="430" />
+<meta property="og:description" content="Рейтинг кредитоспособности банка - мнение рейтингового агентства «Эксперт РА» о способности банка своевременно и в полном объеме выполнять свои финансовые обязательства" /><meta property="og:site_name" content="Рейтинговое агентство «Эксперт РА»" />
+
+<script type="application/ld+json">
+{ "@context": "https://schema.org",
+ "@type": "Organization",
+ "name": "Эксперт РА",
+ "legalName": "АО Эксперт РА",
+ "description": "Эксперт РА – крупнейшее российское кредитное рейтинговое агентство, аккредитованное Банком России. Создано в 1997 году. Кредитные рейтинги, рэнкинги, аналитика.",
+ "url": "https://raexpert.ru/",
+ "logo": "https://raexpert.ru/_aaa/logo-expert-ra.png",
+ "foundingDate": "1997",
+ "address": {
+	 "@type": "PostalAddress",
+	 "streetAddress": "ул. Николоямская, дом 13, стр. 2",
+	 "addressLocality": "Москва",
+	 "addressRegion": "Москва",
+	 "postalCode": "109240",
+	 "addressCountry": "RU"
+ },
+ "contactPoint" : [
+        { "@type" : "ContactPoint",
+          "telephone" : "+7 (495) 225-34-44",
+          "contactType" : "customer support",
+          "areaServed" : "RU",
+          "availableLanguage" : ["English","Russian"]
+        },
+         {
+          "@type" : "ContactPoint",
+          "telephone" : "+7 (495) 225-34-44 (доб. 1656)",
+          "contactType" : "sales",
+          "areaServed" : "RU",
+          "availableLanguage" : ["English","Russian"]
+        }],
+ "sameAs": [
+	"https://www.facebook.com/expertra/",
+    "https://twitter.com/ra_expert",
+    "https://www.youtube.com/channel/UCOfYASai0Meo6nLIb0OGObA",
+    "https://t.me/expertrabot"
+ ]}
+</script>
+<script src="/js/jquery.min.js"></script>
+<script src="/js/highcharts/highcharts.js"></script>
+<script src="/js/highcharts/highcharts-more.js"></script>
+<script src="/js/highcharts/modules/exporting.js"></script>
+<script src="/js/highcharts/modules/annotations.js"></script>
+<script src="/js/jquery-ui.min.js"></script>
+<link rel="stylesheet" href=/css/jquery-ui.min.css>
+
+
+<!-- counters//////////////// -->
+
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript" >
+   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+   m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+   (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+   ym(50950184, "init", {
+        clickmap:true,
+        trackLinks:true,
+        accurateTrackBounce:true
+   });
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/50950184" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+
+
+<!-- Yandex.Metrika counter_old -->
+<script type="text/javascript" >
+   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+   m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+   (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+   ym(3619, "init", {
+        clickmap:true,
+        trackLinks:true,
+        accurateTrackBounce:true
+   });
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/3619" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter_old -->
+
+
+<!-- ////////////////counters -->
+
+</head>
+
+<body>
+
+	<div class="b-login js-feedback-win" style="display: none">
+    <div class="b-login__bg js-feedback-bg"></div>
+
+    <div class="b-login__form js-feedback-auth" style="display: none;">
+
+        <div class="b-login__close js-feedback-close">
+            <span></span><span></span>
+        </div>
+        <div class="b-login__title" style="margin-bottom: 0;">
+            <h2 class="b-title b-aside__title">Служба внутреннего контроля</h2>
+        </div>
+        <form action="" method="get" id="js-feedback-form">
+
+            <input type="hidden" name="user_id" value="0">
+
+            <p>Обращение в службу внутреннего контроля — это обратная линия, с помощью которой мы напрямую от партнёров и клиентов получаем информацию о том,
+                насколько наша деятельность удовлетворяет вашим требованиям и ожиданиям.</p>
+            <p>Высказать своё замечание или предложение Вы можете заполнив онлайн-форму, либо позвонив напрямую в службу внутреннего контроля по телефону +7(495) 225-34-44 доб. 1645 или 1734</p>
+
+            <div class="b-login__inputs">
+
+                <div class="b-input">
+                    <span class="b-input__label">Имя</span>
+                    <div class="b-input__wrap">
+                        <input type="text" class="b-input__text" placeholder="Введите имя" name="quality_fio" required value="">
+                    </div>
+                </div>
+                <!--<div class="b-input">
+                    <span class="b-input__label">Должность</span>
+                    <div class="b-input__wrap">
+                        <input type="text" class="b-input__text" placeholder="Введите должность" name="quality_role" required value="">
+                    </div>
+                </div><div class="b-input">
+                    <span class="b-input__label">Организация</span>
+                    <div class="b-input__wrap">
+                        <input type="text" class="b-input__text" placeholder="Введите организацию" name="quality_company" required value="">
+                    </div>
+                </div>-->
+                <div class="b-input">
+                    <span class="b-input__label">E-mail</span>
+                    <div class="b-input__wrap">
+                        <input type="email" class="b-input__text" placeholder="Введите E-mail" name="quality_email" required value="">
+                    </div>
+                </div>
+
+                <div class="b-input">
+                    <span class="b-input__label">Текст сообщения</span>
+                    <div class="b-input__wrap">
+                        <textarea placeholder="" required="required" size="38" maxlength="1000" type="textarea" class="b-input__text" name="quality_comment" id="quality_comment" rows="5"></textarea>
+                    </div>
+                </div>
+
+
+                <div class="b-input">
+                    <span class="b-input__label">Введите результат вычисления</span>
+                    <img src="/includes/kcaptcha/get_php_captcha.php?param=site_feedback&tm=1704922317" width="150"><br />
+                    <div class="b-input__wrap">
+                        <input type="text" class="b-input__text" name="captcha" value="" required>
+                    </div>
+                </div>
+
+                
+                <br />
+                <button class="b-link -reg" type="submit">Отправить</button>
+                <p>Спасибо, что помогаете нам стать еще лучше!</p>
+                
+
+            </div>
+
+        </form>
+    </div>
+
+</div>
+
+<script>
+    var captcha_valid = 0;
+
+    function sendQualityForm() {
+
+        checkCaptcha();
+
+        if (captcha_valid == 1) {
+
+            var quality_email = $('input[name=quality_email]').val(),
+                quality_fio = $('input[name=quality_fio]').val(),
+                quality_company = $('input[name=quality_company]').val(),
+                quality_role = $('input[name=quality_role]').val(),
+                quality_comment = $('#quality_comment').val();
+
+            var CSRFAjaxTokenFeedback = 'JDJ5JDEwJGUwbjJBLzJMYlcvbnprOFFJakhVc09tWGhDN1FCWTdaYnh1RnVEQ205OWlOaDBENVRaS0hP';
+
+            $.ajax({
+                type: "POST",
+                url: "/includes/feedback/send_feedback.php",
+                dataType: "html",
+                data: ({
+                    user_id: 0,
+                    quality_fio: quality_fio,
+                    quality_email: quality_email,
+                    quality_company: quality_company,
+                    quality_role: quality_role,
+                    quality_comment: quality_comment,
+                    CSRFAjaxToken: CSRFAjaxTokenFeedback
+                }),
+                async: false,
+                success: function (data, textStatus) {
+                    $("#js-feedback-form").html(data);
+                }
+            });
+        } else {
+            alert('Результат вычисления неверен.');
+        }
+    }
+
+    function checkCaptcha() {
+        $.ajax({
+            type: "POST",
+            url: "/includes/kcaptcha/check_captcha.php?param=site_feedback",
+            dataType: "html",
+            data: ({
+                captcha: $('input[name=captcha]').val()
+            }),
+            async: false,
+            success: function (data, textStatus) {
+                if (data == 'ok') {
+                    captcha_valid = 1;
+                }
+            }
+        });
+    }
+</script>	
+	<header class="b-header js-header">
+	
+		
+<div class="popup-block" style="display: none;">
+    <div class="popup-block__header">
+        <span>Мы используем файлы «Cookie»</span>
+    </div>
+    <div class="popup-block__text">Нажимая кнопку «Принять» или продолжая пользоваться сайтом, Вы соглашаетесь на обработку файлов «Cookie» и данных метрических систем.</div>
+    <div class="popup-block__buttons">
+        <div class="js-accept-cookie">Принять</div>
+        <div><a href="/about/cookie/">Подробнее</a></div>
+    </div>
+</div>
+
+<div class="b-header__topline">
+    <div class="b-topline wrapper" style="padding-top: 7px; padding-bottom: 7px;">
+        <a href="https://expert-pages.ru/" class="b-topline__ep-logolink"><img src="/img/pages_logo_black.svg" width="90" alt="Expert Pages"></a><a href="https://expert-pages.ru/" class="b-topline__tab -eplink-mobile">Expert Pages</a><a href="/" class="b-topline__tab -active js-topline-btn">Эксперт | РА</a><a href="https://expert-business.ru" class="b-topline__tab js-topline-btn">Эксперт | Бизнес-решения</a>        
+        <!--  auth: display name-surname in top-line -->
+        
+       
+        
+        
+        
+				<div class="top-line-user">
+                    <a href="https://raexpert-cabinet.ru/user/?back_uri=https://raexpert.ru/ratings/bankcredit_all/">
+                        <button class="b-navigation__link -login" style="margin-right: 10px !important; margin-top: -7px !important; background-color: white;">Вход</button>
+                    </a> 
+					<div class="top_social_icons -withlogin">
+                        <div class="header-contacts-wrapper">
+                            <a href="https://www.youtube.com/channel/UCOfYASai0Meo6nLIb0OGObA" class="header-contacts-icons -youtube" target="_blank"><img src="/_aaa/icon_q_youtube_black.svg"></a>
+                            <a href="https://t.me/expert_ra" class="header-contacts-icons -telegram" target="_blank"><img src="/_aaa/icon_q_telegram_black.svg"></a>
+                            <a href="https://vk.com/expra" class="header-contacts-icons -vk" target="_blank"><img src="/_aaa/icon_q_vk_black.svg"></a>
+                        </div></div>
+				</div>
+                <div class="top-telegram-mobile-icon"><a href="https://t.me/expert_ra" class="header-contacts-icons -telegram" target="_blank"><img src="/_aaa/icon_q_telegram_black.svg"></a></div>        
+        <!-- /auth -->
+        
+    </div>
+</div>	
+		<div class="b-header__main">
+			<div class="wrapper">
+
+				<style>
+    .b-logo img {
+        position: absolute;
+        width: 180px;
+        top: 12px;
+    }
+    @media (max-width: 1365px) {
+        .b-logo img {
+            width: 108px;
+            top: 10px;
+        }
+    }
+</style>
+<div class="b-logo">
+    <a href="/">
+                        <img src="/img/logo-ny.svg" alt="Эксперт РА">
+            </a>
+</div>	
+				<nav class="b-navigation js-mobile-menu">
+	
+					
+<div class="b-langs" style="top: -45px;">
+    <button title="Switch to English" class="b-langs__item js-lang-btn -active" onclick="setLang('en');">En</button>
+    <button title="Переключиться на русский" class="b-langs__item js-lang-btn" onclick="setLang('ru');">Ru</button>
+</div>
+
+<script type="text/javascript">var global_lang_id = 1;</script>
+<script type="text/javascript">
+    function f(){
+        var form = document.getElementById("login-form");
+        form.submit();
+    }
+
+    function setLang(setlang, no_redirect){
+        $.ajax({
+            type: "POST",
+            url: "/default/index/ajax-set-lang/",
+            dataType : "html",
+            data: ({ setlang: setlang }),
+            async: false,
+            success: function (data){
+                if (no_redirect != 1) {
+                    //window.location.href = "/";
+                    location.reload();
+                }
+            }
+        });
+    }
+</script>					<div class="b-menu">
+    <ul class="b-menu__list">
+        <li class="b-menu__item">
+                        <a href="/ratings" class="b-menu__link -active -activerating submenu -ratingssubmenu">Рейтинги</a>
+            <span class="icon triangle ratings-triangle"></span>
+        </li>
+        <li class="b-menu__item">
+            <a href="/researches/" class="b-menu__link">Аналитика</a>
+        </li>
+        <li class="b-menu__item">
+            <a href="/ratings/sustainable_development/" class="b-menu__link">ESG продукты</a>
+        </li>
+<!--        <li class="b-menu__item">-->
+<!--            <a href="#" class="b-menu__link--><!-- js-menu-sublist-btn">Устойчивое развитие</a>-->
+<!--            <span class="icon triangle"></span>-->
+<!---->
+<!--            <ul class="b-menu__sublist js-menu-sublist">-->
+<!--                <li class="b-menu__subitem">-->
+<!--                    <a class="b-menu__link -sub" href="/topics/banks">Зеленые облигации</a>-->
+<!--                </li>-->
+<!--                <li class="b-menu__subitem">-->
+<!--                    <a class="b-menu__link -sub" href="/topics/leasing_factoring">Социальные облигации</a>-->
+<!--                </li>-->
+<!--                <li class="b-menu__subitem">-->
+<!--                    <a class="b-menu__link -sub" href="/topics/leasing_factoring">ESG</a>-->
+<!--                </li>-->
+<!--                <li class="b-menu__subitem">-->
+<!--                    <a class="b-menu__link -sub" href="/topics/leasing_factoring">Рейтинг качества управления</a>-->
+<!--                </li>-->
+<!--            </ul>-->
+<!--        </li>-->
+        <li class="b-menu__item">
+            <a href="/rankings/" class="b-menu__link">Рэнкинги</a>
+        </li>
+        <li class="b-menu__item">
+            <a href="/events/" class="b-menu__link">Конференции</a>
+        </li>
+<!--        <li class="b-menu__item">-->
+<!--            <a href="/express_analytics/" class="b-menu__link--><!--">Экспресс Аналитика</a>-->
+<!--        </li>-->
+<!--        <li class="b-menu__item">-->
+<!--            <a href="/press/" class="b-menu__link--><!--">Пресс-центр</a>-->
+<!--        </li>-->
+        <li class="b-menu__item" style="z-index: 5;">
+                        <a class="b-menu__link submenu -topicssubmenu js-menu-sublist-btn">Тематики</a>
+            <span class="icon triangle"></span>
+            <div class="mobile-dropdown-topics" style="display: none;">
+                <ul class="js-submenu sublist-topics">
+    
+				<li class="topicsitem">
+					<a href="/topics/banks">Банки</a>
+					<span class="b-menu__counter">1045</span>
+				</li>
+				<li class="topicsitem">
+					<a href="/topics/leasing_factoring">Лизинг и факторинг</a>
+					<span class="b-menu__counter">324</span>
+				</li>
+				<li class="topicsitem">
+					<a href="/topics/macroeconomics">Макроэкономика</a>
+					<span class="b-menu__counter">171</span>
+				</li>
+				<li class="topicsitem">
+					<a href="/topics/microfinance">Микрофинансирование</a>
+					<span class="b-menu__counter">106</span>
+				</li>
+				<li class="topicsitem">
+					<a href="/topics/oil_gas">Нефтегазовый сектор</a>
+					<span class="b-menu__counter">19</span>
+				</li>
+				<li class="topicsitem">
+					<a href="/topics/regional_finance">Региональные финансы</a>
+					<span class="b-menu__counter">67</span>
+				</li>
+				<li class="topicsitem">
+					<a href="/topics/insurance">Страхование</a>
+					<span class="b-menu__counter">544</span>
+				</li>
+				<li class="topicsitem">
+					<a href="/topics/construction">Строительство и девелопмент</a>
+					<span class="b-menu__counter">35</span>
+				</li>
+				<li class="topicsitem">
+					<a href="/topics/structured_finance">Структурированное финансирование</a>
+					<span class="b-menu__counter">26</span>
+				</li>
+				<li class="topicsitem">
+					<a href="/topics/asset_management">Управление активами</a>
+					<span class="b-menu__counter">332</span>
+				</li>
+				<li class="topicsitem">
+					<a href="/topics/sustainable_development">Устойчивое развитие</a>
+					<span class="b-menu__counter">59</span>
+				</li>
+				<li class="topicsitem">
+					<a href="/topics/financial_sector">Финансовый сектор</a>
+					<span class="b-menu__counter">168</span>
+				</li></ul>
+
+
+            </div>
+        </li>
+
+        <li class="b-menu__item" style="z-index: 5;">
+            <a href="/all-services" class="b-menu__link submenu -servicessubmenu js-menu-sublist-btn">Услуги</a>
+            <span class="icon triangle services-triangle"></span>
+        </li>
+        
+        <li class="b-menu__item">
+            <a href="/faq/" class="b-menu__link">FAQ</a>
+        </li>
+    </ul>
+    
+
+    <div class="top_social_icons -mobile">
+            </div>
+				
+</div>                    <!--<a href="#" class="b-navigation__link -Wred">Получить рейтинг</a>-->
+
+<a href="#"
+    style="margin: 0;
+    margin-left: auto;
+    margin-right: 15px;
+    padding: 5px 10px;
+    color: #fff;
+    border-color: #fff;
+    background-color: #fff;
+    font-size: 16px;
+    display: block;
+    float: left;
+    clear: left;
+    font-family: GraphikMedium, sans-serif;
+    line-height: 24px;
+    cursor: default;
+    text-decoration: none;"></a>                    	
+				</nav>
+	
+				<div class="b-burger js-mobile-menu-btn">
+    <span></span>
+    <span></span>
+    <span></span>
+</div>	
+			</div>
+		</div>
+        <div class="menu-dropdown-wrapper" style="display: none;">
+    <div class="menu-dropdown-contents b-main">
+        <div class="menu-ratings" style="display: none;">
+            
+<div>
+    <!--<span class="menu-dropdown-contents_header -ratings"><a href="/ratings">Рейтинг-лист</a></span>
+    <div class="menu-red-line" style="margin-top: 13px;"></div>-->
+    <span class="menu-dropdown-contents_header">По&nbsp;вопросам&nbsp;получения&nbsp;рейтинга</span>
+    <div class="menu-red-line"></div>
+    <span>+7 (495) 231-70-84<br><a href="mailto:sale@raexpert.ru">sale@raexpert.ru</a></span>
+    <div class="menu-red-line" style="margin: 20px 0;"></div>
+
+    <a href="/ratings/scales">Рейтинговые шкалы</a><br>
+    <a href="/ratings/recognition/">Требования регуляторов</a><br>
+    <a href="/ratings/methods/current/">Действующие методологии</a><br>
+    <a href="/ratings/pr_method">Проекты методологий</a><br>
+    <a href="/ratings/methods/previous">Архив методологий</a><br>
+	<a href="/pr/media/Client_Handbook.pdf" target="_blank">Что нужно знать о кредитных рейтингах</a>
+
+</div>
+<div>
+    <span class="menu-dropdown-contents_header"><noindex>Кредитные рейтинги</noindex></span>
+    <div class="menu-red-line"></div>
+    <div class="menu-ratings_ratinglist">
+        <div>
+            <a href="/ratings/bankcredit_all/">Банки</a><span class="menu-ratings_count">147</span><br>
+            <a href="/ratings/credits_fin/">Финансовые компании</a><span class="menu-ratings_count">13</span><br>
+            <a href="/ratings/leasing_rel/">Лизинговые компании</a><span class="menu-ratings_count">28</span><br>
+            <a href="/ratings/npf/">НПФ</a><span class="menu-ratings_count">12</span><br>
+            <a href="/ratings/mfi_credits_all/">МФО</a><span class="menu-ratings_count">15</span><br>
+            <a href="/ratings/depositories/">Депозитарии</a><span class="menu-ratings_count">2</span><br>
+            <a href="/ratings/factor/">Факторинговые компании</a><span class="menu-ratings_count">5</span><br>
+			<a href="/ratings/credits_all/">Нефинансовые компании</a><span class="menu-ratings_count">177</span><br>
+           <!-- <a href="/ratings/credits/">Нефинансовые компании</a><span class="menu-ratings_count">176</span><br>
+            <a href="/ratings/credits_kz/">Нефинансовые компании - Казахстан</a><span class="menu-ratings_count">0</span><br>
+            <a href="/ratings/credits_by/">Нефинансовые компании - Беларусь</a><span class="menu-ratings_count">1</span><br>-->
+            <a href="/ratings/credits_holding/">Холдинговые компании</a><span class="menu-ratings_count">15</span><br>
+            <a href="/ratings/credits_project/">Проектные компании</a><span class="menu-ratings_count">5</span><br>
+            <a href="/ratings/insurance/">Страховые компании</a><span class="menu-ratings_count">38</span><br>
+            <a href="/ratings/life/">Страхование жизни</a><span class="menu-ratings_count">13</span>
+        </div>
+        <div><a href="/ratings/regioncredit_all/">Субъекты РФ и муниципалитеты</a><span class="menu-ratings_count">27</span><br>
+            <a href="/ratings/debt_inst/">Облигации</a><span class="menu-ratings_count">372</span><br>
+            <a href="/ratings/sfp/">Структурные облигации</a><span class="menu-ratings_count">0</span><br>
+            <a href="/ratings/securitization_all/">Инструменты структурированного<br>финансирования</a><span class="menu-ratings_count">6</span><br>
+            <a href="/ratings/regional_guarantee_org/">Региональные гарантийные организации</a><span class="menu-ratings_count">1</span>
+        </div>
+    </div>
+</div>
+<div>
+    <span class="menu-dropdown-contents_header"><noindex>Некредитные и ожидаемые рейтинги</noindex></span>
+    <div class="menu-red-line"></div>
+    <a href="/ratings/managing/">Управляющие компании</a><span class="menu-ratings_count">19</span><br>
+    <a href="/ratings/smo/">Страховые медицинские компании</a><span class="menu-ratings_count">1</span><br>
+    <a href="/ratings/corporate/">Рейтинги качества управления</a><span class="menu-ratings_count">5</span><br>
+    <a href="/ratings/debt_inst_exp/">Ожидаемый рейтинг долговых инструментов</a><span class="menu-ratings_count">0</span><br>
+    <a href="/ratings/securitization_exp_all/">Ожидаемый рейтинг инструментов структурированного финансирования</a><span class="menu-ratings_count">0</span><br>
+    <a href="/ratings/sfp_exp/">Ожидаемые рейтинги структурных облигаций</a><span class="menu-ratings_count">0</span><br>
+	<a href="/ratings/esg_all/">Рейтинг ESG</a><span class="menu-ratings_count">16</span><br>
+	<a href="/ratings/mutual_funds_quality/">Рейтинг качества паевых инвестиционных фондов</a><span class="menu-ratings_count"> 2</span>
+
+</div>        </div>
+
+        <div class="menu-topics" style="display: none;">
+            <ul class="js-submenu sublist-topics">
+    
+				<li class="topicsitem">
+					<a href="/topics/banks">Банки</a>
+					<span class="b-menu__counter">1045</span>
+				</li>
+				<li class="topicsitem">
+					<a href="/topics/leasing_factoring">Лизинг и факторинг</a>
+					<span class="b-menu__counter">324</span>
+				</li>
+				<li class="topicsitem">
+					<a href="/topics/macroeconomics">Макроэкономика</a>
+					<span class="b-menu__counter">171</span>
+				</li>
+				<li class="topicsitem">
+					<a href="/topics/microfinance">Микрофинансирование</a>
+					<span class="b-menu__counter">106</span>
+				</li>
+				<li class="topicsitem">
+					<a href="/topics/oil_gas">Нефтегазовый сектор</a>
+					<span class="b-menu__counter">19</span>
+				</li>
+				<li class="topicsitem">
+					<a href="/topics/regional_finance">Региональные финансы</a>
+					<span class="b-menu__counter">67</span>
+				</li>
+				<li class="topicsitem">
+					<a href="/topics/insurance">Страхование</a>
+					<span class="b-menu__counter">544</span>
+				</li>
+				<li class="topicsitem">
+					<a href="/topics/construction">Строительство и девелопмент</a>
+					<span class="b-menu__counter">35</span>
+				</li>
+				<li class="topicsitem">
+					<a href="/topics/structured_finance">Структурированное финансирование</a>
+					<span class="b-menu__counter">26</span>
+				</li>
+				<li class="topicsitem">
+					<a href="/topics/asset_management">Управление активами</a>
+					<span class="b-menu__counter">332</span>
+				</li>
+				<li class="topicsitem">
+					<a href="/topics/sustainable_development">Устойчивое развитие</a>
+					<span class="b-menu__counter">59</span>
+				</li>
+				<li class="topicsitem">
+					<a href="/topics/financial_sector">Финансовый сектор</a>
+					<span class="b-menu__counter">168</span>
+				</li></ul>
+
+
+        </div>
+
+        <div class="menu-services" style="display: none; width: 100%;">
+            <div style="display: flex; flex-direction: row; flex-wrap: nowrap; align-content: space-between;">
+                <div style="width: calc(100% / 2); margin-right: 40px;">
+                    <span class="menu-dropdown-contents_header">Услуги&nbsp;«Эксперт РА»</span>
+                    <div class="menu-red-line"></div>
+                    <div><a href="/all-services/credit-rating">Кредитные рейтинги</a></div>
+                    <div><a href="/all-services/noncredit-rating">Некредитные рейтинги</a></div>
+                    <div><a href="/all-services/esg">ESG продукты</a></div>
+                    <div><a href="/all-services/rating-export">Выгрузка агрегированных данных о рейтингах</a></div>
+
+                    <div class="menu-dropdown-contents_header" style="padding-top: 30px;padding-bottom: 10px;">Контакты&nbsp;«Эксперт РА»</div>
+                    <span>+7 (495) 225-34-44</span><br>
+                    <span>+7 (495) 225-23-54</span>
+                    <div><a href="mailto:sale@raexpert.ru">sale@raexpert.ru</a></div>
+                </div>
+                <div style="width: calc(100% / 2);">
+                    <span class="menu-dropdown-contents_header">Услуги «Эксперт Бизнес-Решения»</span>
+                    <div class="menu-red-line"></div>
+                    <div><a href="/events">Деловые конференции</a></div>
+                    <div><a href="https://era-score.ru/">Скоринговые продукты</a></div>
+                    <div><a href="/services/macro_research">Индивидуальные исследования и обзоры рынков</a></div>
+                    <div><a href="/all-services/ebr-audit">Рейтинг надежности аудиторов</a></div>
+                    <div><a href="/all-services/ebr-ir">IR-сопровождение</a></div>
+                    <div><a href="/all-services/ebr-esg-transform">Сопровождение ESG-трансформации компаний</a></div>
+                    <div><a href="https://constructor.expert-business.ru/">Конструктор сделок секьюритизации</a></div>
+                    <div><a href="/ratings/securitization_all/RWA_calc/">Калькулятор кредитного риска для банков-участников сделок секьюритизации</a></div>
+
+                    <div class="menu-dropdown-contents_header" style="padding-top: 30px;padding-bottom: 10px;">Контакты&nbsp;«Эксперт Бизнес-Решения»</div>
+                    <span>+7 (495) 234-34-16</span>
+                    <div><a href="mailto:info@expert-business.ru">info@expert-business.ru</a></div>
+                </div>
+            </div>
+        </div>
+        </div>
+    </div>
+</div>	</header>
+
+	<main class="b-main">
+		<div class="b-main__content" role="main">
+
+			<div class="b-subheader">
+
+				    <div class="b-search">
+        <form action="/search/" class="b-search__form" method="post">
+            <input type="hidden" name="CSRFToken" value="JDJ5JDEwJFQ5MXZCeUlUNjQvbDlra3BNTTU0MmVlZS9YTkhMb3U3U2JtVkN2UFRXY3JlVTlxSmpKTnpt">
+            <input class="b-search__input" type="text" name="search" value="" placeholder="Поиск">
+            <button class="b-search__submit" type="submit">
+                <span class="icon search"></span>
+            </button>
+        </form>
+    </div>
+
+                
+                        <h1 class="b-title -white">
+                            Банки
+                            <span class="b-more js-show-more">
+                                <span class="b-more__list js-show-more-list">
+                                    <div id="share">Поделиться</div>
+<!--<a href="https://www.facebook.com/expertra/" class="b-more__item">Facebook</a>-->
+<!--<a href="https://twitter.com/ra_expert" class="b-more__item">Twitter</a>-->
+<!--<a href="https://www.youtube.com/channel/UCOfYASai0Meo6nLIb0OGObA" class="b-more__item">Youtube</a>-->
+<!--<a href="https://t.me/expertrabot" class="b-more__item">Telegram</a>-->
+<a href="https://share.yandex.net/go.xml?service=vkontakte&url=https%3A%2F%2Fraexpert.ru%2Fratings%2Fbankcredit_all%2F&title=%D0%91%D0%B0%D0%BD%D0%BA%D0%B8" class="b-more__item">VK</a>
+<!--<a href="https://www.youtube.com/channel/UCOfYASai0Meo6nLIb0OGObA" class="b-more__item">Youtube</a>-->
+<!--<a href="https://t.me/expertrabot" class="b-more__item">Telegram</a>-->
+                                </span>
+                            </span>
+                        </h1><div class="b-subheader__more js-subheader-more"><a href="/ratings/recognition" class="b-subheader__more-link">Зачем нужен рейтинг</a><a href="/ratings/scales" class="b-subheader__more-link">Рейтинговые шкалы</a><a href="/about/map" class="b-subheader__more-link">Контакты</a><a href="/pr/media/Client_Handbook.pdf" target="_blank" class="b-subheader__more-link">Что нужно знать о кредитных рейтингах</a></div><style>.b-subheader__more {display: block;}</style>
+			</div>
+
+			<div class="b-content">
+
+				<script type="text/javascript">
+        var date_set_cookie = new Date(new Date().getTime() + 86400 * 356 * 1000);
+        var CSRFAjaxTokenPageHash = 'JDJ5JDEwJENCLk13U0w0Z0kxMlRzaWtaWnFxRWVOR0IzTHdUdUZSYXVyZGpMLmZyQTVoUW9LSzFCMkJ1';
+            
+        function setRatingPageHash(rating_page_hash) {
+            $.ajax({
+                type: "POST",
+                url: "/ratings/index/ajax-set-rating-page-hash/",
+                dataType : "html",
+                data: ({ rating_page_hash: rating_page_hash, CSRFAjaxToken: CSRFAjaxTokenPageHash }),
+                async: false,
+                success: function (data){
+                    window.location.href = "/ratings/bankcredit_all/";
+                }
+            });
+        }
+        
+        function setRatingDefault(r)
+        {
+            document.cookie = "hide_view_callback_checkbox_20251392630=0; path=/; expires=" + date_set_cookie.toUTCString();
+            document.cookie = "hide_view_watch_checkbox_20251392630=0; path=/; expires=" + date_set_cookie.toUTCString();
+            if (r == 1) {
+                location.reload();   
+            }
+        }
+        
+        function setRatingCallback(param)
+        {
+            setRatingDefault(0);
+            document.cookie = "hide_view_callback_checkbox_20251392630="+param+"; path=/; expires=" + date_set_cookie.toUTCString();
+            location.reload();
+        }
+        
+        function setRatingWatch(param)
+        {
+            setRatingDefault(0);
+            document.cookie = "hide_view_watch_checkbox_20251392630="+param+"; path=/; expires=" + date_set_cookie.toUTCString();
+            location.reload();
+        }
+
+        $( document ).ready(function() {            
+            
+            $(".b-filters__item.custom-select.custom-select_w100 > .select-selected").on("click", function() {
+                if ($(this).attr("class") == "select-selected") {
+                    $(this).attr("class", "select-selected select-arrow-active");
+                    $(this).next().attr("class", "select-items");
+                } else {
+                    $(this).attr("class", "select-selected");
+                    $(this).next().attr("class", "select-items select-hide");
+                }
+            });
+            
+            $("div[data-url]").on("click", function() {
+                location.href = $(this).attr("data-url");
+            });
+            
+            $("#cb-recalled").on("click", function() {                
+                if(this.checked == true) {
+                    setRatingCallback(1);
+                } else {
+                    setRatingCallback(0);
+                }
+            });
+            
+            $("#cb-monitored").on("click", function() {                
+                if(this.checked == true) {
+                    setRatingWatch(1);
+                } else {
+                    setRatingWatch(0);
+                }
+            });
+            
+//            $("#cb-monitored").on("click", function() {
+//                $(".b-actions__rates.-black.-ratings").find('tr[data-rating-watch!="rating-watch"]').toggle();
+//            });
+                            
+            $(".b-filters__item.custom-select.custom-select_mob-only > .select-selected").on("click", function() {
+                if ($(this).attr("class") == "select-selected") {
+                    $(this).attr("class", "select-selected select-arrow-active");
+                    $(this).next().attr("class", "select-items");
+                } else {
+                    $(this).attr("class", "select-selected");
+                    $(this).next().attr("class", "select-items select-hide");
+                }
+            });
+            
+            $("div[data-action]").on("click", function() {
+                if ($(this).attr("data-action") == 0) {
+                    setRatingCallback(0);
+                }
+                if ($(this).attr("data-action") == 1) {
+                    setRatingCallback(1);
+                }
+                if ($(this).attr("data-action") == 2) {
+                    setRatingWatch(1);
+                    //$(".b-actions__rates.-black.-ratings").find('tr[data-rating-watch!="rating-watch"]').toggle();
+                }
+            });
+        });
+    </script>
+    <div class="b-actions">
+
+<!--        <form action="#" class="b-filters">-->
+
+            <div class="b-filters__wrapper">
+
+                <div class="b-filters__item custom-select custom-select_w100">
+<!--                <select name="select_1" id="select_1" class="b-filters__select@">-->
+<!--                    <option value="/ratings/">Все рейтинги</option>-->
+<!--                    --><!--                </select>-->
+
+<!--                    --><!--                    <div class="select-selected">--><!--</div>-->
+<!--                    <div class="select-items select-hide">-->
+<!--                        --><!--                    </div>-->
+
+
+                    
+                    <div class="select-selected">Банки</div>
+                    <div class="select-items select-hide">
+                        <div style="background-color: rgba(0, 0, 0, .1); cursor: default;">Финансовый сектор</div>
+                            <a class="group_rating" href="/ratings/bankcredit_all/" 
+                                style="padding-left: 35px;
+                                font-family: GraphikRegular, sans-serif;
+                                color: #242423;
+                                font-size: 16px;
+                                line-height: 20px;
+                                text-decoration: none;
+                                 font-weight: bold; ">Банки</a><br />
+                            <a class="group_rating" href="/ratings/credits_fin/" 
+                                style="padding-left: 35px;
+                                font-family: GraphikRegular, sans-serif;
+                                color: #242423;
+                                font-size: 16px;
+                                line-height: 20px;
+                                text-decoration: none;
+                                ">Финансовые компании</a><br />
+                            <a class="group_rating" href="/ratings/leasing_rel/" 
+                                style="padding-left: 35px;
+                                font-family: GraphikRegular, sans-serif;
+                                color: #242423;
+                                font-size: 16px;
+                                line-height: 20px;
+                                text-decoration: none;
+                                ">Лизинговые компании</a><br />
+                            <a class="group_rating" href="/ratings/npf/" 
+                                style="padding-left: 35px;
+                                font-family: GraphikRegular, sans-serif;
+                                color: #242423;
+                                font-size: 16px;
+                                line-height: 20px;
+                                text-decoration: none;
+                                ">НПФ</a><br />
+                            <a class="group_rating" href="/ratings/mfi_credits_all/" 
+                                style="padding-left: 35px;
+                                font-family: GraphikRegular, sans-serif;
+                                color: #242423;
+                                font-size: 16px;
+                                line-height: 20px;
+                                text-decoration: none;
+                                ">МФО</a><br />
+                            <a class="group_rating" href="/ratings/depositories/" 
+                                style="padding-left: 35px;
+                                font-family: GraphikRegular, sans-serif;
+                                color: #242423;
+                                font-size: 16px;
+                                line-height: 20px;
+                                text-decoration: none;
+                                ">Депозитарии</a><br />
+                            <a class="group_rating" href="/ratings/factor/" 
+                                style="padding-left: 35px;
+                                font-family: GraphikRegular, sans-serif;
+                                color: #242423;
+                                font-size: 16px;
+                                line-height: 20px;
+                                text-decoration: none;
+                                ">Факторинговые компании</a><br />
+                            <a class="group_rating" href="/ratings/regional_guarantee_org/" 
+                                style="padding-left: 35px;
+                                font-family: GraphikRegular, sans-serif;
+                                color: #242423;
+                                font-size: 16px;
+                                line-height: 20px;
+                                text-decoration: none;
+                                ">Региональные гарантийные организации</a><br /><div style="background-color: rgba(0, 0, 0, .1); cursor: default;">Корпоративный сектор</div>
+                            <a class="group_rating" href="/ratings/credits_all/" 
+                                style="padding-left: 35px;
+                                font-family: GraphikRegular, sans-serif;
+                                color: #242423;
+                                font-size: 16px;
+                                line-height: 20px;
+                                text-decoration: none;
+                                ">Нефинансовые компании</a><br />
+                            <a class="group_rating" href="/ratings/credits_holding/" 
+                                style="padding-left: 35px;
+                                font-family: GraphikRegular, sans-serif;
+                                color: #242423;
+                                font-size: 16px;
+                                line-height: 20px;
+                                text-decoration: none;
+                                ">Холдинговые компании</a><br />
+                            <a class="group_rating" href="/ratings/credits_project/" 
+                                style="padding-left: 35px;
+                                font-family: GraphikRegular, sans-serif;
+                                color: #242423;
+                                font-size: 16px;
+                                line-height: 20px;
+                                text-decoration: none;
+                                ">Проектные компании</a><br /><div style="background-color: rgba(0, 0, 0, .1); cursor: default;">Страховые компании</div>
+                            <a class="group_rating" href="/ratings/insurance/" 
+                                style="padding-left: 35px;
+                                font-family: GraphikRegular, sans-serif;
+                                color: #242423;
+                                font-size: 16px;
+                                line-height: 20px;
+                                text-decoration: none;
+                                ">Страховые компании</a><br />
+                            <a class="group_rating" href="/ratings/life/" 
+                                style="padding-left: 35px;
+                                font-family: GraphikRegular, sans-serif;
+                                color: #242423;
+                                font-size: 16px;
+                                line-height: 20px;
+                                text-decoration: none;
+                                ">Страхование жизни</a><br /><div style="background-color: rgba(0, 0, 0, .1); cursor: default;">Суверены и субсуверены</div>
+                            <a class="group_rating" href="/ratings/regioncredit_all/" 
+                                style="padding-left: 35px;
+                                font-family: GraphikRegular, sans-serif;
+                                color: #242423;
+                                font-size: 16px;
+                                line-height: 20px;
+                                text-decoration: none;
+                                ">Субъекты РФ и муниципалитеты</a><br />
+                            <a class="group_rating" href="/ratings/sovereign_ratings/" 
+                                style="padding-left: 35px;
+                                font-family: GraphikRegular, sans-serif;
+                                color: #242423;
+                                font-size: 16px;
+                                line-height: 20px;
+                                text-decoration: none;
+                                ">Суверенные правительства</a><br /><div style="background-color: rgba(0, 0, 0, .1); cursor: default;">Финансовые инструменты</div>
+                            <a class="group_rating" href="/ratings/debt_inst/" 
+                                style="padding-left: 35px;
+                                font-family: GraphikRegular, sans-serif;
+                                color: #242423;
+                                font-size: 16px;
+                                line-height: 20px;
+                                text-decoration: none;
+                                ">Облигации</a><br />
+                            <a class="group_rating" href="/ratings/sfp/" 
+                                style="padding-left: 35px;
+                                font-family: GraphikRegular, sans-serif;
+                                color: #242423;
+                                font-size: 16px;
+                                line-height: 20px;
+                                text-decoration: none;
+                                ">Структурные облигации</a><br />
+                            <a class="group_rating" href="/ratings/securitization_all/" 
+                                style="padding-left: 35px;
+                                font-family: GraphikRegular, sans-serif;
+                                color: #242423;
+                                font-size: 16px;
+                                line-height: 20px;
+                                text-decoration: none;
+                                ">Инструменты структурированного финансирования</a><br /><div style="background-color: rgba(0, 0, 0, .1); cursor: default;">Некредитные рейтинги</div>
+                            <a class="group_rating" href="/ratings/managing/" 
+                                style="padding-left: 35px;
+                                font-family: GraphikRegular, sans-serif;
+                                color: #242423;
+                                font-size: 16px;
+                                line-height: 20px;
+                                text-decoration: none;
+                                ">Управляющие компании</a><br />
+                            <a class="group_rating" href="/ratings/smo/" 
+                                style="padding-left: 35px;
+                                font-family: GraphikRegular, sans-serif;
+                                color: #242423;
+                                font-size: 16px;
+                                line-height: 20px;
+                                text-decoration: none;
+                                ">Страховые медицинские компании</a><br />
+                            <a class="group_rating" href="/ratings/corporate/" 
+                                style="padding-left: 35px;
+                                font-family: GraphikRegular, sans-serif;
+                                color: #242423;
+                                font-size: 16px;
+                                line-height: 20px;
+                                text-decoration: none;
+                                ">Рейтинги качества управления</a><br />
+                            <a class="group_rating" href="/ratings/mutual_funds_quality/" 
+                                style="padding-left: 35px;
+                                font-family: GraphikRegular, sans-serif;
+                                color: #242423;
+                                font-size: 16px;
+                                line-height: 20px;
+                                text-decoration: none;
+                                ">Рейтинг качества паевых инвестиционных фондов</a><br /><div style="background-color: rgba(0, 0, 0, .1); cursor: default;">Ожидаемые рейтинги</div>
+                            <a class="group_rating" href="/ratings/debt_inst_exp/" 
+                                style="padding-left: 35px;
+                                font-family: GraphikRegular, sans-serif;
+                                color: #242423;
+                                font-size: 16px;
+                                line-height: 20px;
+                                text-decoration: none;
+                                ">Ожидаемый рейтинг долговых инструментов</a><br />
+                            <a class="group_rating" href="/ratings/securitization_exp_all/" 
+                                style="padding-left: 35px;
+                                font-family: GraphikRegular, sans-serif;
+                                color: #242423;
+                                font-size: 16px;
+                                line-height: 20px;
+                                text-decoration: none;
+                                ">Ожидаемый рейтинг инструментов структурированного финансирования</a><br />
+                            <a class="group_rating" href="/ratings/sfp_exp/" 
+                                style="padding-left: 35px;
+                                font-family: GraphikRegular, sans-serif;
+                                color: #242423;
+                                font-size: 16px;
+                                line-height: 20px;
+                                text-decoration: none;
+                                ">Ожидаемый рейтинг структурных облигаций</a><br /><div style="background-color: rgba(0, 0, 0, .1); cursor: default;">ESG</div>
+                            <a class="group_rating" href="/ratings/esg_all/" 
+                                style="padding-left: 35px;
+                                font-family: GraphikRegular, sans-serif;
+                                color: #242423;
+                                font-size: 16px;
+                                line-height: 20px;
+                                text-decoration: none;
+                                ">ESG - рейтинг экологической и социальной ответственности</a><br />                    </div>
+
+                </div>
+
+    <!--            <div class="b-filters__item custom-select custom-select_w100">-->
+    <!--                <select name="select_1" id="select_1" class="b-filters__select">-->
+    <!--                    <option value="1">Все рейтинги Все рейтинги Все рейтинги</option>-->
+    <!--                    <option value="2">Первые рейтинги</option>-->
+    <!--                    <option value="3">Вторые рейтинги</option>-->
+    <!--                </select>-->
+    <!--            </div>-->
+
+                <div class="b-filters__item custom-select custom-select_mob-only">
+<!--                    <select name="select_2" id="select_2" class="b-filters__select">-->
+<!--                        <option value="0">Фильтр</option>-->
+<!--                        <option value="1">Отозванные</option>-->
+<!--                        <option value="2">Под наблюдением</option>-->
+<!--                    </select>-->
+                    <div class="select-selected">Фильтр</div>
+                    <div class="select-items select-hide">
+                        <div data-action="0">Без фильтров</div>
+                        <div data-action="1">Только отозванные</div>
+                        <div data-action="2">Только под наблюдением</div>
+                    </div>
+                </div>
+
+                <div class="b-filters__item b-filters__button" style="margin-left: 0;">
+                    <button class="b-link -filter -gray" onclick="$('#rating-export').toggle();">Экспортировать</button>
+                </div>
+
+                
+            </div>
+
+            <style>
+    .ratings-export-block-header td {
+        cursor: pointer;
+    }
+</style>
+<div class="ratinglist-modal-container-loader">
+    <div class="ratinglist-modal-container-bg-loader"></div>
+    <div class="ratinglist-modal-content-loader"><img src="/images/loading1.gif" alt="loading" width="64" id="loader-image"><br /><br />Выполняется обработка данных, это может занять некоторое время.<br /><br /><span style="font-size: 16px;">По завершении, нажмите в любом месте экрана.</font></div>
+</div>
+<div id="rating-export" style="display: none;">
+    <form action="/ratings/rating-export/?export_folder=0" method="post" id="ratings-export-modal-form-excel">
+        <input type="text" id="selected_type20251392630" name="selected_type" value="xls" style="position: absolute; left: -9000px;"/>
+        <input type="text" id="selected_ratings20251392630" name="selected_ratings" value="" style="position: absolute; left: -9000px;"/>
+        <div class="b-actions">
+            <h3>Экспорт рейтингов</h3>
+            <br />
+                        <div class="b-actions__rates -black -ratings">
+                <table>
+                    <tr>
+                        <td>
+                            <input name="virtual_date" class="b-subscribe__input" style="width: 145px;" type="text" id="ratings-export-modal-date20251392630" value="11.01.2024" />
+                            <script type="text/javascript">
+                               $("#ratings-export-modal-date20251392630").datepicker({minDate: new Date('2017-01-01'), changeMonth: true, changeYear: true});
+                               $("#ratings-export-modal-date20251392630").datepicker( "option", "dateFormat", "dd.mm.yy");
+                               $("#ratings-export-modal-date20251392630").val("11.01.2024");
+                            </script>
+                                                    </td>
+                    </tr>
+                    <tr class="ratings-export-block-header"><td style="background: #EFEFF0;">
+                                <b>Кредитные рейтинги</b>
+                            </td></tr><tr id="group1" style="display:none;"><td><div style="float: left; border-bottom: 1px dashed gray; cursor: pointer;" group_key="1">выделить все</div><div style="clear: both;">&nbsp;</div><div class="b-filters__cb"><input name="rating[/bankcredit/][path]" type="hidden" value="/bankcredit/" /><input name="rating[/bankcredit/][name]" type="hidden" value="Рейтинги кредитоспособности банков" /><input type="checkbox" name="export_checkbox" value="20" id="group-item20"><label for="group-item20">Рейтинги кредитоспособности банков</label></div><div class="b-filters__cb"><input name="rating[/credits_fin/][path]" type="hidden" value="/credits_fin/" /><input name="rating[/credits_fin/][name]" type="hidden" value="Рейтинги кредитоспособности финансовых компаний" /><input type="checkbox" name="export_checkbox" value="63" id="group-item63"><label for="group-item63">Рейтинги кредитоспособности финансовых компаний</label></div><div class="b-filters__cb"><input name="rating[/credits/][path]" type="hidden" value="/credits/" /><input name="rating[/credits/][name]" type="hidden" value="Рейтинги кредитоспособности нефинансовых компаний" /><input type="checkbox" name="export_checkbox" value="32" id="group-item32"><label for="group-item32">Рейтинги кредитоспособности нефинансовых компаний</label></div><div class="b-filters__cb"><input name="rating[/credits_holding/][path]" type="hidden" value="/credits_holding/" /><input name="rating[/credits_holding/][name]" type="hidden" value="Рейтинги кредитоспособности холдинговых компаний" /><input type="checkbox" name="export_checkbox" value="71" id="group-item71"><label for="group-item71">Рейтинги кредитоспособности холдинговых компаний</label></div><div class="b-filters__cb"><input name="rating[/credits_project/][path]" type="hidden" value="/credits_project/" /><input name="rating[/credits_project/][name]" type="hidden" value="Рейтинги кредитоспособности проектных компаний" /><input type="checkbox" name="export_checkbox" value="70" id="group-item70"><label for="group-item70">Рейтинги кредитоспособности проектных компаний</label></div><div class="b-filters__cb"><input name="rating[/factor/][path]" type="hidden" value="/factor/" /><input name="rating[/factor/][name]" type="hidden" value="Рейтинги кредитоспособности факторинговых компаний" /><input type="checkbox" name="export_checkbox" value="44" id="group-item44"><label for="group-item44">Рейтинги кредитоспособности факторинговых компаний</label></div><div class="b-filters__cb"><input name="rating[/leasing_rel/][path]" type="hidden" value="/leasing_rel/" /><input name="rating[/leasing_rel/][name]" type="hidden" value="Рейтинги кредитоспособности лизинговых компаний" /><input type="checkbox" name="export_checkbox" value="34" id="group-item34"><label for="group-item34">Рейтинги кредитоспособности лизинговых компаний</label></div><div class="b-filters__cb"><input name="rating[/regioncredit/][path]" type="hidden" value="/regioncredit/" /><input name="rating[/regioncredit/][name]" type="hidden" value="Рейтинги кредитоспособности субъектов федерации и муниципальных образований" /><input type="checkbox" name="export_checkbox" value="24" id="group-item24"><label for="group-item24">Рейтинги кредитоспособности субъектов федерации и муниципальных образований</label></div><div class="b-filters__cb"><input name="rating[/sovereign_ratings/][path]" type="hidden" value="/sovereign_ratings/" /><input name="rating[/sovereign_ratings/][name]" type="hidden" value="Рейтинги кредитоспособности суверенного правительства" /><input type="checkbox" name="export_checkbox" value="57" id="group-item57"><label for="group-item57">Рейтинги кредитоспособности суверенного правительства</label></div><div class="b-filters__cb"><input name="rating[/insurance/][path]" type="hidden" value="/insurance/" /><input name="rating[/insurance/][name]" type="hidden" value="Рейтинги финансовой надежности страховых компаний" /><input type="checkbox" name="export_checkbox" value="21" id="group-item21"><label for="group-item21">Рейтинги финансовой надежности страховых компаний</label></div><div class="b-filters__cb"><input name="rating[/life/][path]" type="hidden" value="/life/" /><input name="rating[/life/][name]" type="hidden" value="Рейтинги финансовой надежности страховых компаний, специализирующихся на страховании жизни" /><input type="checkbox" name="export_checkbox" value="41" id="group-item41"><label for="group-item41">Рейтинги финансовой надежности страховых компаний, специализирующихся на страховании жизни</label></div><div class="b-filters__cb"><input name="rating[/depositories/][path]" type="hidden" value="/depositories/" /><input name="rating[/depositories/][name]" type="hidden" value="Рейтинги кредитоспособности депозитариев" /><input type="checkbox" name="export_checkbox" value="53" id="group-item53"><label for="group-item53">Рейтинги кредитоспособности депозитариев</label></div><div class="b-filters__cb"><input name="rating[/npf/][path]" type="hidden" value="/npf/" /><input name="rating[/npf/][name]" type="hidden" value="Рейтинги финансовой надежности негосударственных пенсионных фондов" /><input type="checkbox" name="export_checkbox" value="45" id="group-item45"><label for="group-item45">Рейтинги финансовой надежности негосударственных пенсионных фондов</label></div><div class="b-filters__cb"><input name="rating[/mfi_credits/][path]" type="hidden" value="/mfi_credits/" /><input name="rating[/mfi_credits/][name]" type="hidden" value="Рейтинги кредитоспособности микрофинансовых организаций" /><input type="checkbox" name="export_checkbox" value="72" id="group-item72"><label for="group-item72">Рейтинги кредитоспособности микрофинансовых организаций</label></div><div class="b-filters__cb"><input name="rating[/guarantee/][path]" type="hidden" value="/guarantee/" /><input name="rating[/guarantee/][name]" type="hidden" value="Рейтинги надежности гарантийного покрытия" /><input type="checkbox" name="export_checkbox" value="47" id="group-item47"><label for="group-item47">Рейтинги надежности гарантийного покрытия</label></div><div class="b-filters__cb"><input name="rating[/securitization/][path]" type="hidden" value="/securitization/" /><input name="rating[/securitization/][name]" type="hidden" value="Кредитный рейтинг инструментов структурированного финансирования" /><input type="checkbox" name="export_checkbox" value="270" id="group-item270"><label for="group-item270">Кредитный рейтинг инструментов структурированного финансирования</label></div><div class="b-filters__cb"><input name="rating[/securitization_msp_exp/][path]" type="hidden" value="/securitization_msp_exp/" /><input name="rating[/securitization_msp_exp/][name]" type="hidden" value="Ожидаемый рейтинг инструментов структурированного финансирования" /><input type="checkbox" name="export_checkbox" value="271" id="group-item271"><label for="group-item271">Ожидаемый рейтинг инструментов структурированного финансирования</label></div><div class="b-filters__cb"><input name="rating[/debt_inst/][path]" type="hidden" value="/debt_inst/" /><input name="rating[/debt_inst/][name]" type="hidden" value="Кредитные рейтинги долговых инструментов" /><input type="checkbox" name="export_checkbox" value="110" id="group-item110"><label for="group-item110">Кредитные рейтинги долговых инструментов</label></div><div class="b-filters__cb"><input name="rating[/debt_inst_exp/][path]" type="hidden" value="/debt_inst_exp/" /><input name="rating[/debt_inst_exp/][name]" type="hidden" value="Ожидаемый рейтинг долговых инструментов" /><input type="checkbox" name="export_checkbox" value="130" id="group-item130"><label for="group-item130">Ожидаемый рейтинг долговых инструментов</label></div><div class="b-filters__cb"><input name="rating[/rating-watch/][path]" type="hidden" value="/rating-watch/" /><input name="rating[/rating-watch/][name]" type="hidden" value="Рейтинги под наблюдением" /><input type="checkbox" name="export_checkbox" value="-2" id="group-item-2"><label for="group-item-2">Рейтинги под наблюдением</label></div><div class="b-filters__cb"><input name="rating[/credits_by/][path]" type="hidden" value="/credits_by/" /><input name="rating[/credits_by/][name]" type="hidden" value="Нефинансовые компании (Республика Беларусь)" /><input type="checkbox" name="export_checkbox" value="230" id="group-item230"><label for="group-item230">Нефинансовые компании (Республика Беларусь)</label></div><div class="b-filters__cb"><input name="rating[/credits_kz/][path]" type="hidden" value="/credits_kz/" /><input name="rating[/credits_kz/][name]" type="hidden" value="Нефинансовые компании (Республика Казахстан)" /><input type="checkbox" name="export_checkbox" value="190" id="group-item190"><label for="group-item190">Нефинансовые компании (Республика Казахстан)</label></div><div class="b-filters__cb"><input name="rating[/sfp_exp/][path]" type="hidden" value="/sfp_exp/" /><input name="rating[/sfp_exp/][name]" type="hidden" value="Ожидаемый кредитный рейтинг долговых инструментов, являющихся структурными облигациями" /><input type="checkbox" name="export_checkbox" value="430" id="group-item430"><label for="group-item430">Ожидаемый кредитный рейтинг долговых инструментов, являющихся структурными облигациями</label></div><div class="b-filters__cb"><input name="rating[/municipalities/][path]" type="hidden" value="/municipalities/" /><input name="rating[/municipalities/][name]" type="hidden" value="Рейтинг кредитоспособности муниципалитета" /><input type="checkbox" name="export_checkbox" value="570" id="group-item570"><label for="group-item570">Рейтинг кредитоспособности муниципалитета</label></div><div class="b-filters__cb"><input name="rating[/mfi_kz/][path]" type="hidden" value="/mfi_kz/" /><input name="rating[/mfi_kz/][name]" type="hidden" value="Рейтинги кредитоспособности микрофинансовых организаций (Республика Казахстан)" /><input type="checkbox" name="export_checkbox" value="530" id="group-item530"><label for="group-item530">Рейтинги кредитоспособности микрофинансовых организаций (Республика Казахстан)</label></div><div class="b-filters__cb"><input name="rating[/credit_rating_national_scale/][path]" type="hidden" value="/credit_rating_national_scale/" /><input name="rating[/credit_rating_national_scale/][name]" type="hidden" value="Рейтинг кредитоспособности банка-нерезидента по нац. рейтинговой шкале РФ" /><input type="checkbox" name="export_checkbox" value="630" id="group-item630"><label for="group-item630">Рейтинг кредитоспособности банка-нерезидента по нац. рейтинговой шкале РФ</label></div><div class="b-filters__cb"><input name="rating[/bankcredit_by/][path]" type="hidden" value="/bankcredit_by/" /><input name="rating[/bankcredit_by/][name]" type="hidden" value="Рейтинг кредитоспособности банка по нац. рейтинговой шкале РБ" /><input type="checkbox" name="export_checkbox" value="392" id="group-item392"><label for="group-item392">Рейтинг кредитоспособности банка по нац. рейтинговой шкале РБ</label></div><div class="b-filters__cb"><input name="rating[/securitization_credit_all/][path]" type="hidden" value="/securitization_credit_all/" /><input name="rating[/securitization_credit_all/][name]" type="hidden" value="Кредитный рейтинг инструментов структурированного финансирования" /><input type="checkbox" name="export_checkbox" value="770" id="group-item770"><label for="group-item770">Кредитный рейтинг инструментов структурированного финансирования</label></div><div class="b-filters__cb"><input name="rating[/sfp/][path]" type="hidden" value="/sfp/" /><input name="rating[/sfp/][name]" type="hidden" value="Кредитный рейтинг долговых инструментов, являющихся структурными облигациями" /><input type="checkbox" name="export_checkbox" value="351" id="group-item351"><label for="group-item351">Кредитный рейтинг долговых инструментов, являющихся структурными облигациями</label></div><div class="b-filters__cb"><input name="rating[/bond_governments/][path]" type="hidden" value="/bond_governments/" /><input name="rating[/bond_governments/][name]" type="hidden" value="Кредитный рейтинг долговых инструментов суверенных правительств" /><input type="checkbox" name="export_checkbox" value="810" id="group-item810"><label for="group-item810">Кредитный рейтинг долговых инструментов суверенных правительств</label></div><div class="b-filters__cb"><input name="rating[/regional_guarantee_org/][path]" type="hidden" value="/regional_guarantee_org/" /><input name="rating[/regional_guarantee_org/][name]" type="hidden" value="Рейтинг кредитоспособности региональной гарантийной организации" /><input type="checkbox" name="export_checkbox" value="750" id="group-item750"><label for="group-item750">Рейтинг кредитоспособности региональной гарантийной организации</label></div></td></tr><tr class="ratings-export-block-header"><td style="background: #EFEFF0;">
+                                <b>Некредитные рейтинги</b>
+                            </td></tr><tr id="group2" style="display:none;"><td><div style="float: left; border-bottom: 1px dashed gray; cursor: pointer;" group_key="2">выделить все</div><div style="clear: both;">&nbsp;</div><div class="b-filters__cb"><input name="rating[/managing/][path]" type="hidden" value="/managing/" /><input name="rating[/managing/][name]" type="hidden" value="Рейтинги надежности и качества услуг управляющих компаний" /><input type="checkbox" name="export_checkbox" value="36" id="group-item36"><label for="group-item36">Рейтинги надежности и качества услуг управляющих компаний</label></div><div class="b-filters__cb"><input name="rating[/smo/][path]" type="hidden" value="/smo/" /><input name="rating[/smo/][name]" type="hidden" value="Рейтинги надежности и качества услуг страховых медицинских организаций" /><input type="checkbox" name="export_checkbox" value="48" id="group-item48"><label for="group-item48">Рейтинги надежности и качества услуг страховых медицинских организаций</label></div><div class="b-filters__cb"><input name="rating[/corporate/][path]" type="hidden" value="/corporate/" /><input name="rating[/corporate/][name]" type="hidden" value="Рейтинги качества корпоративного управления" /><input type="checkbox" name="export_checkbox" value="25" id="group-item25"><label for="group-item25">Рейтинги качества корпоративного управления</label></div><div class="b-filters__cb"><input name="rating[/risk/][path]" type="hidden" value="/risk/" /><input name="rating[/risk/][name]" type="hidden" value="Рейтинги качества системы риск-менеджмента" /><input type="checkbox" name="export_checkbox" value="40" id="group-item40"><label for="group-item40">Рейтинги качества системы риск-менеджмента</label></div><div class="b-filters__cb"><input name="rating[/mutual_funds_quality/][path]" type="hidden" value="/mutual_funds_quality/" /><input name="rating[/mutual_funds_quality/][name]" type="hidden" value="Рейтинг качества паевых инвестиционных фондов" /><input type="checkbox" name="export_checkbox" value="650" id="group-item650"><label for="group-item650">Рейтинг качества паевых инвестиционных фондов</label></div></td></tr><tr class="ratings-export-block-header"><td style="background: #EFEFF0;">
+                                <b>Устойчивое развитие</b>
+                            </td></tr><tr id="group3" style="display:none;"><td><div style="float: left; border-bottom: 1px dashed gray; cursor: pointer;" group_key="3">выделить все</div><div style="clear: both;">&nbsp;</div><div class="b-filters__cb"><input name="rating[/esg/][path]" type="hidden" value="/esg/" /><input name="rating[/esg/][name]" type="hidden" value="ESG - рейтинг экологической и социальной ответственности" /><input type="checkbox" name="export_checkbox" value="330" id="group-item330"><label for="group-item330">ESG - рейтинг экологической и социальной ответственности</label></div><div class="b-filters__cb"><input name="rating[/green_finance/][path]" type="hidden" value="/green_finance/" /><input name="rating[/green_finance/][name]" type="hidden" value="Green - верификация соответствия принципам зеленых облигаций ICMA" /><input type="checkbox" name="export_checkbox" value="310" id="group-item310"><label for="group-item310">Green - верификация соответствия принципам зеленых облигаций ICMA</label></div><div class="b-filters__cb"><input name="rating[/social_bonds/][path]" type="hidden" value="/social_bonds/" /><input name="rating[/social_bonds/][name]" type="hidden" value="Social - верификация соответствия принципам социальных облигаций ICMA" /><input type="checkbox" name="export_checkbox" value="370" id="group-item370"><label for="group-item370">Social - верификация соответствия принципам социальных облигаций ICMA</label></div><div class="b-filters__cb"><input name="rating[/sustainable_bonds/][path]" type="hidden" value="/sustainable_bonds/" /><input name="rating[/sustainable_bonds/][name]" type="hidden" value="Sustainable - верификация соответствия принципам облигаций устойчивого развития" /><input type="checkbox" name="export_checkbox" value="450" id="group-item450"><label for="group-item450">Sustainable - верификация соответствия принципам облигаций устойчивого развития</label></div><div class="b-filters__cb"><input name="rating[/bond_lowcarbon/][path]" type="hidden" value="/bond_lowcarbon/" /><input name="rating[/bond_lowcarbon/][name]" type="hidden" value="Transition – верификация соответствия руководству по финансированию перехода к низкоуглеродной экономике ICMA" /><input type="checkbox" name="export_checkbox" value="671" id="group-item671"><label for="group-item671">Transition – верификация соответствия руководству по финансированию перехода к низкоуглеродной экономике ICMA</label></div><div class="b-filters__cb"><input name="rating[/esg_regions/][path]" type="hidden" value="/esg_regions/" /><input name="rating[/esg_regions/][name]" type="hidden" value="ESG Region - рейтинг экологической и социальной ответственности" /><input type="checkbox" name="export_checkbox" value="510" id="group-item510"><label for="group-item510">ESG Region - рейтинг экологической и социальной ответственности</label></div><div class="b-filters__cb"><input name="rating[/esg_city/][path]" type="hidden" value="/esg_city/" /><input name="rating[/esg_city/][name]" type="hidden" value="Рейтинг ESG (городские округа)" /><input type="checkbox" name="export_checkbox" value="830" id="group-item830"><label for="group-item830">Рейтинг ESG (городские округа)</label></div><div class="b-filters__cb"><input name="rating[/sustainable_projects/][path]" type="hidden" value="/sustainable_projects/" /><input name="rating[/sustainable_projects/][name]" type="hidden" value="Независимое заключение о соответствии проектов принципам устойчивого развития" /><input type="checkbox" name="export_checkbox" value="790" id="group-item790"><label for="group-item790">Независимое заключение о соответствии проектов принципам устойчивого развития</label></div></td></tr><tr><td><button class="b-link js-subscribe-btn" type="button" name="button" onclick="exportSubmite();">Экспорт</button></td></tr>                </table>
+            </div>
+        </div>
+    </form>
+</div>
+
+<script>
+    var col = 0;
+    var selected_ratings = "";
+    var group_key = [];
+
+    $("div[group_key]").on("click", function () {
+
+        var key = $(this).attr('group_key');
+
+        if (!group_key[key] || group_key[key] == 0) {
+		    $('#group' + key).find('input[name=export_checkbox]').prop('checked', true);
+		    group_key[key] = 1;
+		    $(this).text('снять выделение');
+        } else {
+            $('#group' + key).find('input[name=export_checkbox]').prop('checked', false);
+		    group_key[key] = 0;
+		    $(this).text('выделить все');
+
+            $('#group' + key).find('input[name=export_checkbox][id=group-item20251392630]').prop('checked', true);        }
+	});
+
+    function exportSubmite() {
+
+        col = 0;
+        selected_ratings = '';
+
+        $("input[name=export_checkbox]:checked").each(function () {
+            if (col == 0) {
+                selected_ratings += this.value;
+            } else {
+                selected_ratings += "," + this.value;
+            }
+            col++;
+        });
+        $("#selected_ratings20251392630").val(selected_ratings);
+
+        if (selected_ratings != '') {
+            $(".ratinglist-modal-container-bg-loader").fadeIn(50);
+            $(".ratinglist-modal-container-loader").fadeIn(100);
+            // $("#ratings-export-modal").hide();
+
+            document.getElementById("ratings-export-modal-form-excel").submit();
+        } else {
+            alert('Выберите хотя бы один рейтинг!');
+        } 
+    }
+
+    $(".ratinglist-modal-container-loader").on("click", function () {
+		$(".ratinglist-modal-container-loader").hide();
+	});
+
+    $(".ratings-export-block-header").on("click", function () {
+		$(this).next().toggle();
+	});
+</script>
+            
+            <div class="b-filters__wrapper b-filters__bottom">
+                <div class="b-filters__cb" id="hide_view_callback_checkbox">
+                    <input type="checkbox" name="recalled" value="1" id="cb-recalled">
+                    <label for="cb-recalled">Только отозванные</label>
+                </div>
+                <div class="b-filters__cb">
+                    <input type="checkbox" name="monitored" value="" id="cb-monitored">
+                    <label for="cb-monitored">Только под наблюдением — <span class="monitored"></span></label>
+                </div>
+                <!-- <div class="b-filters__about">
+                    Методология
+                    <span>?</span>
+                </div> -->
+            </div>
+
+<!--        </form>-->
+
+        <div class="b-actions__rates -black -ratings">
+            <table>
+                <thead>
+                <tr>
+                    <th>
+                        <a href="/ratings/bankcredit_all/?sort=name&type=asc" class="js-th-sort js-th-isActive">Объект<div class="rating_sorting_options" title="Применить сортировку"><span class="ratinglist-sort-desc ">▼</span><span class="ratinglist-sort-asc ">▲</span></div></a>
+                    </th>
+                    <th style="min-width: 120px;">
+                        <a href="/ratings/bankcredit_all/?sort=rating&type=asc" class="js-th-sort js-th-isActive">Рейтинг<div class="rating_sorting_options" title="Применить сортировку"><span class="ratinglist-sort-desc ">▼</span><span class="ratinglist-sort-asc ">▲</span></div></a>
+                    </th>
+                    <th style="min-width: 120px;">
+                        <a href="/ratings/bankcredit_all/?sort=forecast&type=asc" class="js-th-sort js-th-isActive">Прогноз<div class="rating_sorting_options" title="Применить сортировку"><span class="ratinglist-sort-desc ">▼</span><span class="ratinglist-sort-asc ">▲</span></div></a>
+                    </th>
+                    <th>
+                        <a href="/ratings/bankcredit_all/?sort=date&type=asc" class="js-th-sort js-th-isActive">Обновлен<div class="rating_sorting_options" title="Применить сортировку"><span class="ratinglist-sort-desc ">▼</span><span class="ratinglist-sort-asc ">▲</span></div></a>
+                    </th>
+                </tr>
+            </thead>
+                
+                        <tr data-rating-watch="rating-watch">
+                            <td>
+                                    <span class="negative i i-triangle"><a href="/database/companies/qiwi_bank">КИВИ БАНК (АО) <i class="monitored"></i></a>
+                                    </span>
+                                    <span>
+                                        ruBBB-, Под наблюдением, Развивающийся, <a href="/releases/2023/oct31e">31.10.2023</a>
+                                    </span>
+                            </td>
+                            <td>ruBBB-</td>
+                            <td>Развивающийся</td>
+                            <td><a href="/releases/2023/oct31e">31.10.2023</a></td>
+                        </tr>
+                        <tr>
+                            <td>
+                                    <span><a href="/database/companies/bratsky_narodny_bank">"БРАТСКИЙ АНКБ" АО</a>
+                                    </span>
+                                    <span>
+                                        ruBB, Стабильный, <a href="/releases/2023/oct30">30.10.2023</a>
+                                    </span>
+                            </td>
+                            <td>ruBB</td>
+                            <td>Стабильный</td>
+                            <td><a href="/releases/2023/oct30">30.10.2023</a></td>
+                        </tr>
+                        <tr>
+                            <td>
+                                    <span><a href="/database/companies/moskva_city_bank">АО БАНК "МОСКВА-СИТИ"</a>
+                                    </span>
+                                    <span>
+                                        ruB+, Стабильный, <a href="/releases/2023/oct27e">27.10.2023</a>
+                                    </span>
+                            </td>
+                            <td>ruB+</td>
+                            <td>Стабильный</td>
+                            <td><a href="/releases/2023/oct27e">27.10.2023</a></td>
+                        </tr>
+                        <tr>
+                            <td>
+                                    <span><a href="/database/companies/moskombank">АО "МОСКОМБАНК"</a>
+                                    </span>
+                                    <span>
+                                        ruBB-, Позитивный, <a href="/releases/2023/oct27c">27.10.2023</a>
+                                    </span>
+                            </td>
+                            <td>ruBB-</td>
+                            <td>Позитивный</td>
+                            <td><a href="/releases/2023/oct27c">27.10.2023</a></td>
+                        </tr>
+                        <tr>
+                            <td>
+                                    <span><a href="/database/companies/kbbank">АО "КУЗНЕЦКБИЗНЕСБАНК"</a>
+                                    </span>
+                                    <span>
+                                        ruBB, Стабильный, <a href="/releases/2023/oct24">24.10.2023</a>
+                                    </span>
+                            </td>
+                            <td>ruBB</td>
+                            <td>Стабильный</td>
+                            <td><a href="/releases/2023/oct24">24.10.2023</a></td>
+                        </tr>
+                        <tr>
+                            <td>
+                                    <span><a href="/database/companies/1000049163">ОАО "Банк Дабрабыт"</a>
+                                    </span>
+                                    <span>
+                                        ruBB, Стабильный, <a href="/releases/2023/oct17e">17.10.2023</a>
+                                    </span>
+                            </td>
+                            <td>ruBB</td>
+                            <td>Стабильный</td>
+                            <td><a href="/releases/2023/oct17e">17.10.2023</a></td>
+                        </tr>
+                        <tr>
+                            <td>
+                                    <span class="positive i i-triangle"><a href="/database/companies/1000049163">ОАО "Банк Дабрабыт"</a>
+                                    </span>
+                                    <span>
+                                        byA-, Стабильный, <a href="/releases/2023/oct17e">17.10.2023</a>
+                                    </span>
+                            </td>
+                            <td>byA-</td>
+                            <td>Стабильный</td>
+                            <td><a href="/releases/2023/oct17e">17.10.2023</a></td>
+                        </tr>
+                        <tr>
+                            <td>
+                                    <span><a href="/database/companies/bank_uralsib">ПАО "БАНК УРАЛСИБ"</a>
+                                    </span>
+                                    <span>
+                                        ruA-, Позитивный, <a href="/releases/2023/oct09c">09.10.2023</a>
+                                    </span>
+                            </td>
+                            <td>ruA-</td>
+                            <td>Позитивный</td>
+                            <td><a href="/releases/2023/oct09c">09.10.2023</a></td>
+                        </tr>
+                        <tr>
+                            <td>
+                                    <span><a href="/database/companies/bank_orenburg">АО "БАНК ОРЕНБУРГ"</a>
+                                    </span>
+                                    <span>
+                                        ruBB+, Стабильный, <a href="/releases/2023/oct05a">05.10.2023</a>
+                                    </span>
+                            </td>
+                            <td>ruBB+</td>
+                            <td>Стабильный</td>
+                            <td><a href="/releases/2023/oct05a">05.10.2023</a></td>
+                        </tr>
+                        <tr>
+                            <td>
+                                    <span><a href="/database/companies/ndbbank">ПАО "НБД-БАНК"</a>
+                                    </span>
+                                    <span>
+                                        ruBBB+, Стабильный, <a href="/releases/2023/oct05b">05.10.2023</a>
+                                    </span>
+                            </td>
+                            <td>ruBBB+</td>
+                            <td>Стабильный</td>
+                            <td><a href="/releases/2023/oct05b">05.10.2023</a></td>
+                        </tr>
+                        <tr>
+                            <td>
+                                    <span><a href="/database/companies/1000016626">АО УКБ "БЕЛГОРОДСОЦБАНК"</a>
+                                    </span>
+                                    <span>
+                                        ruBB+, Развивающийся, <a href="/releases/2023/oct04">04.10.2023</a>
+                                    </span>
+                            </td>
+                            <td>ruBB+</td>
+                            <td>Развивающийся</td>
+                            <td><a href="/releases/2023/oct04">04.10.2023</a></td>
+                        </tr>
+                        <tr>
+                            <td>
+                                    <span><a href="/database/companies/bank_hfb">АО "БАНК БЖФ"</a>
+                                    </span>
+                                    <span>
+                                        ruB+, Стабильный, <a href="/releases/2023/oct03b">03.10.2023</a>
+                                    </span>
+                            </td>
+                            <td>ruB+</td>
+                            <td>Стабильный</td>
+                            <td><a href="/releases/2023/oct03b">03.10.2023</a></td>
+                        </tr>
+                        <tr>
+                            <td>
+                                    <span><a href="/database/companies/chb">ПАО "ЧЕЛИНДБАНК"</a>
+                                    </span>
+                                    <span>
+                                        ruA, Стабильный, <a href="/releases/2023/oct03c">03.10.2023</a>
+                                    </span>
+                            </td>
+                            <td>ruA</td>
+                            <td>Стабильный</td>
+                            <td><a href="/releases/2023/oct03c">03.10.2023</a></td>
+                        </tr>
+                        <tr>
+                            <td>
+                                    <span class="positive i i-triangle"><a href="/database/companies/akb_almaz">АКБ "АЛМАЗЭРГИЭНБАНК" АО</a>
+                                    </span>
+                                    <span>
+                                        ruBBB-, Стабильный, <a href="/releases/2023/oct02">02.10.2023</a>
+                                    </span>
+                            </td>
+                            <td>ruBBB-</td>
+                            <td>Стабильный</td>
+                            <td><a href="/releases/2023/oct02">02.10.2023</a></td>
+                        </tr>
+                        <tr>
+                            <td>
+                                    <span><a href="/database/companies/levoberegny">БАНК "ЛЕВОБЕРЕЖНЫЙ" (ПАО)</a>
+                                    </span>
+                                    <span>
+                                        ruA-, Стабильный, <a href="/releases/2023/sep28a">28.09.2023</a>
+                                    </span>
+                            </td>
+                            <td>ruA-</td>
+                            <td>Стабильный</td>
+                            <td><a href="/releases/2023/sep28a">28.09.2023</a></td>
+                        </tr>
+                        <tr>
+                            <td>
+                                    <span><a href="/database/companies/bankrosscap">АО "БАНК ДОМ.РФ"</a>
+                                    </span>
+                                    <span>
+                                        ruAA, Позитивный, <a href="/releases/2023/sep28c">28.09.2023</a>
+                                    </span>
+                            </td>
+                            <td>ruAA</td>
+                            <td>Позитивный</td>
+                            <td><a href="/releases/2023/sep28c">28.09.2023</a></td>
+                        </tr>
+                        <tr>
+                            <td>
+                                    <span><a href="/database/companies/slavia">АКБ "СЛАВИЯ" (АО)</a>
+                                    </span>
+                                    <span>
+                                        ruB-, Развивающийся, <a href="/releases/2023/sep20">20.09.2023</a>
+                                    </span>
+                            </td>
+                            <td>ruB-</td>
+                            <td>Развивающийся</td>
+                            <td><a href="/releases/2023/sep20">20.09.2023</a></td>
+                        </tr>
+                        <tr>
+                            <td>
+                                    <span><a href="/database/companies/novikombank">АО АКБ "НОВИКОМБАНК"</a>
+                                    </span>
+                                    <span>
+                                        ruA+, Стабильный, <a href="/releases/2023/sep15">15.09.2023</a>
+                                    </span>
+                            </td>
+                            <td>ruA+</td>
+                            <td>Стабильный</td>
+                            <td><a href="/releases/2023/sep15">15.09.2023</a></td>
+                        </tr>
+                        <tr>
+                            <td>
+                                    <span><a href="/database/companies/roseximbank">АО РОСЭКСИМБАНК</a>
+                                    </span>
+                                    <span>
+                                        ruAA, Стабильный, <a href="/releases/2023/sep12g">12.09.2023</a>
+                                    </span>
+                            </td>
+                            <td>ruAA</td>
+                            <td>Стабильный</td>
+                            <td><a href="/releases/2023/sep12g">12.09.2023</a></td>
+                        </tr>
+                        <tr>
+                            <td>
+                                    <span><a href="/database/companies/1000042429">ОАО «АСБ Беларусбанк»</a>
+                                    </span>
+                                    <span>
+                                        byAAA, Стабильный, <a href="/releases/2023/sep07a">07.09.2023</a>
+                                    </span>
+                            </td>
+                            <td>byAAA</td>
+                            <td>Стабильный</td>
+                            <td><a href="/releases/2023/sep07a">07.09.2023</a></td>
+                        </tr>            </table>
+        </div>
+
+        <style>.b-paginator > span { cursor: pointer; }</style><div class="b-paginator"><span onclick="setRatingPageHash('A0OTIyMzE3fFJBVElOR19JRDoyMDI1MTM5MjYzMHxQQUdFOjE=VElNRToxNz');" class="b-paginator__link">1</span><span onclick="setRatingPageHash('A0OTIyMzE3fFJBVElOR19JRDoyMDI1MTM5MjYzMHxQQUdFOjI=VElNRToxNz');" class="b-paginator__link">2</span><span class="b-paginator__link -active">3</span><span onclick="setRatingPageHash('A0OTIyMzE3fFJBVElOR19JRDoyMDI1MTM5MjYzMHxQQUdFOjQ=VElNRToxNz');" class="b-paginator__link">4</span><span onclick="setRatingPageHash('A0OTIyMzE3fFJBVElOR19JRDoyMDI1MTM5MjYzMHxQQUdFOjU=VElNRToxNz');" class="b-paginator__link">5</span><span onclick="setRatingPageHash('A0OTIyMzE3fFJBVElOR19JRDoyMDI1MTM5MjYzMHxQQUdFOjY=VElNRToxNz');" class="b-paginator__link">6</span><span onclick="setRatingPageHash('A0OTIyMzE3fFJBVElOR19JRDoyMDI1MTM5MjYzMHxQQUdFOjc=VElNRToxNz');" class="b-paginator__link">7</span><span onclick="setRatingPageHash('A0OTIyMzE3fFJBVElOR19JRDoyMDI1MTM5MjYzMHxQQUdFOjg=VElNRToxNz');" class="b-paginator__link">8</span><span onclick="setRatingPageHash('A0OTIyMzE3fFJBVElOR19JRDoyMDI1MTM5MjYzMHxQQUdFOjk=VElNRToxNz');" class="b-paginator__link">9</span><span onclick="setRatingPageHash('A0OTIyMzE3fFJBVElOR19JRDoyMDI1MTM5MjYzMHxQQUdFOjEwVElNRToxNz');" class="b-paginator__link -last">»</span></div><br /><br />
+    </div>
+
+
+    <script>
+        function getCookie(name) {
+            var matches = document.cookie.match(new RegExp(
+                "(?:^|; )" + name.replace(/([\.$?*|{}\(\)\[\]\\/\+^])/g, '\$1') + "=([^;]*)"
+            ));
+            return matches ? decodeURIComponent(matches[1]) : undefined;
+        }
+        
+        $('#show_hide_full_rating_list').on('click', function() {   
+            
+            show_hide_full_rating_list_cookie = getCookie("show_hide_full_rating_list_20251392630");
+            
+            var date_set_cookie = new Date(new Date().getTime() + 86400 * 10 * 1000);
+            if(show_hide_full_rating_list_cookie == undefined || show_hide_full_rating_list_cookie == 0) {
+                document.cookie = "show_hide_full_rating_list_20251392630=1; path=/; expires=" + date_set_cookie.toUTCString();
+            } else {
+                document.cookie = "show_hide_full_rating_list_20251392630=0; path=/; expires=" + date_set_cookie.toUTCString();
+            }
+            
+            location.reload();
+        });			
+        
+        $('#hide_view_callback_checkbox').on('click', function() {   
+                    
+            var date_set_cookie = new Date(new Date().getTime() + 86400 * 10 * 1000);
+            if($(this).find('input').is(':checked') == true) {
+                document.cookie = "hide_view_callback_checkbox_20251392630=1; path=/; expires=" + date_set_cookie.toUTCString();
+            } else {
+                document.cookie = "hide_view_callback_checkbox_20251392630=0; path=/; expires=" + date_set_cookie.toUTCString();
+            }
+            
+            location.reload();
+        });
+	</script>
+			</div>
+
+		</div>
+
+		<aside class="b-aside js-aside">
+
+			<div class="b-aside-content js-aside-content">
+
+                <div class="b-aside-content__subheader-links">
+                
+                
+                    
+                        <h2 class="b-title b-aside__title">
+                            <a href="/ratings/recognition/" class="b-aside-content__more-link b-subheader__more-link">Требования регуляторов<span class="icon arrow"></span></a>
+                        </h2>
+                        <hr class="b-hr">
+                        <h2 class="b-title b-aside__title">
+                            <a href="/ratings/methods/current" class="b-aside-content__more-link b-subheader__more-link">Рейтинговые методологии<span class="icon arrow"></span></a>
+                        </h2>
+                        <hr class="b-hr">
+                        <h2 class="b-title b-aside__title">
+                            <a href="/ratings/scales" class="b-aside-content__more-link b-subheader__more-link">Рейтинговые<br>шкалы<span class="icon arrow"></span></a>
+                        </h2>
+                        <hr class="b-hr">				</div>
+
+                <div class="index-macro-wrapper" style="overflow: hidden; border-top-right-radius: 8px;"><div class="index-macro-content" style="padding: 25px;"><div class="b-articles-list-item__info index-macro-header" style="padding-right: 0;"><h3 class="b-articles-list-item__title"><a href="https://raexpert.ru/pr/media/Client_Handbook.pdf" target="_blank" title="Скачать PDF" style="font-size: 22px; line-height: 24px;">Что нужно знать о кредитных рейтингах</a></h3><div class="index-macro-subtitle" style="font-weight: normal; font-family: GraphikSemi, sans-serif; font-size: 16px;"><a href="https://raexpert.ru/pr/media/Client_Handbook.pdf" target="_blank" title="Скачать PDF" style="text-decoration: none; color: #242423">Справочник клиента</a> <img style="position: relative; top: 3px; margin-left: 10px; opacity: 0.4;" src="https://raexpert.ru/_aaa/method_pdf_ico.png"></div></div> <!--<a href="https://raexpert.ru/pr/media/Client_Handbook.pdf" class="index-macro-img" target="_blank" title="Скачать PDF"><img src="/_aaa/banner-faq-icon.png" alt="Что нужно знать о кредитных рейтинга"></a>--></div></div>
+
+                <div style="height: 30px;"></div>
+				
+                <h2 class="b-title b-aside__title">По вопросам получения рейтинга</h2>
+                <p>+7 (495) 231-70-84<br>
+				<a href="mailto:sale@raexpert.ru" class="b-aside-content__text">sale@raexpert.ru</a></p>
+
+				        <div class="b-aside-content__list">
+            <h2 class="b-title b-aside__title">Аналитика</h2>
+
+            
+                    <div class="b-aside-content__item">
+                        <a href="/researches/regions/migration_regions_2023" class="b-aside-content__text">Миграция населения РФ в 2023: кадровый голод</a>
+                        <span class="b-aside-content__source"><a href="/topics/regional_finance">Региональные&nbsp;финансы</a>, </span>
+                        <span class="b-aside-content__time">26.12.2023</span>
+                    </div>
+                    <div class="b-aside-content__item">
+                        <a href="/researches/world_economy_2023" class="b-aside-content__text">Мировая экономика под пятой высоких ставок</a>
+                        <span class="b-aside-content__source"><a href="/topics/macroeconomics">Макроэкономика</a>, </span>
+                        <span class="b-aside-content__time">12.12.2023</span>
+                    </div>
+                    <div class="b-aside-content__item">
+                        <a href="/researches/leasing/9m2023" class="b-aside-content__text">Рынок лизинга по итогам девяти месяцев 2023 года: между рисками и возможностями</a>
+                        <span class="b-aside-content__source"><a href="/topics/leasing_factoring">Лизинг&nbsp;и&nbsp;факторинг</a>, </span>
+                        <span class="b-aside-content__time">05.12.2023</span>
+                    </div>
+                    <div class="b-aside-content__item">
+                        <a href="/researches/leasing/market_2023" class="b-aside-content__text">Рынок лизинга легковых и грузовых автомобилей: риски, возможности, прогноз до 2027 года</a>
+                        <span class="b-aside-content__source"><a href="/topics/leasing_factoring">Лизинг&nbsp;и&nbsp;факторинг</a>, </span>
+                        <span class="b-aside-content__time">07.11.2023</span>
+                    </div>
+                    <div class="b-aside-content__item">
+                        <a href="/researches/banks/bank_services_2023a" class="b-aside-content__text">Анализ российского рынка банковских услуг и прогноз развития сектора до 2026 года</a>
+                        <span class="b-aside-content__source"><a href="/topics/banks">Банки</a>, </span>
+                        <span class="b-aside-content__time">03.11.2023</span>
+                    </div>
+            <a href="/researches/" class="b-link -gray -aside">Вся аналитика</a>
+
+        </div>
+
+			</div>
+
+			<hr class="b-hr">
+
+            
+    <form action="/subscribe-email/" class="b-subscribe" id="form-news-subscribe-block" method="post">
+        <input type="hidden" name="CSRFToken" value="JDJ5JDEwJE9aa3hJYmZOOExPQ094NmoyY0taVE9SaUFNTTVlLjB6a2EwMlBta0RJYlJLWm9KQUJDYmVl">
+        <div class="b-subscribe__item">
+            <p class="b-title">Ежедневная E-mail рассылка</p>
+        </div>
+        <div class="b-subscribe__item">
+            <input class="b-subscribe__input" type="email" name="email" value="" placeholder="E-mail" required onclick="$(this).next().show();">
+            <div class="b-input" style="display: none; padding: 20px 0 10px 0;">
+                    <span class="b-input__label" style="padding-left: 0;">Введите результат вычисления:</span>
+                    <div style="display: flex; margin-top: 10px;">
+                        <img src="/includes/kcaptcha/get_php_captcha.php?param=site_subscribe&tm=<?=time()?>" style="width: 150px; height: 39px;"><br />
+                        <div class="b-input__wrap">
+                            <input type="text" class="b-input__text" name="subscribe_captcha" value="" required>
+                        </div>
+                    </div>  
+                    <span style="color: #df2027; margin-top: 10px; display: none;" class="js-news-subscribe-error">Неправильный результат вычисления!</span>                  
+                </div>
+            <div class="b-link -subscribe js-subscribe-btn js-news-sunbscribe" style="text-align: center;">Подписаться</div>
+        </div>
+    </form>
+<script>
+    $('.js-news-sunbscribe').click(function() {
+
+        $('.js-news-subscribe-error').hide();
+
+        if($(this).parents('#form-news-subscribe-block').find('input[name="email"]').val() != '') {
+
+            $.ajax({
+                type: "POST",
+                url: "/includes/kcaptcha/check_captcha.php?param=site_subscribe",
+                dataType: "html",
+                data: ({
+                    captcha: $('input[name=subscribe_captcha]').val()
+                }),
+                async: false,
+                success: function (data, textStatus) {
+                    if (data == 'ok') {
+
+                        $('#form-news-subscribe-block').submit();
+
+                    } else {
+                        $('.js-news-subscribe-error').text('Неправильный результат вычисления!');
+                        $('.js-news-subscribe-error').show();
+                    }
+                }
+            });
+
+        } else {
+
+            $('.js-news-subscribe-error').text('Введиет адрес электронной почты');
+            $('.js-news-subscribe-error').show();
+        }
+
+    });
+</script>
+
+		</aside>
+
+
+	</main>
+
+	<footer class="b-footer">
+		<div class="b-footer__wrapper">
+			<div class="b-footer__item">
+
+                <ul class="b-footer__menu">
+    <li class="b-footer__menu-item">
+        <a href="/about/">Об агентстве</a>
+    </li>
+    <li class="b-footer__menu-item">
+        <a href="/ratings/methods/current">Методологии</a>
+    </li>
+    <li class="b-footer__menu-item">
+        <a href="/about/disclosure/">Раскрытие информации</a>
+    </li>
+    <li class="b-footer__menu-item">
+        <a href="/about/bank_details/">Реквизиты</a>
+    </li>
+    <li class="b-footer__menu-item">
+        <a href="/about/vacancy/">Вакансии</a>
+    </li>
+    <li class="b-footer__menu-item">
+        <a href="/about/anticorruption_policy/">Антикоррупционная политика</a>
+    </li>
+</ul>
+			</div>
+		</div>
+		<hr>
+		<div class="b-footer__wrapper">
+			<div class="b-footer__item b-footer-contacts">
+
+                <div class="b-footer-contacts__item -first">
+    <p class="b-footer-contacts__title">Адрес</p>
+    <p>Москва, ул. Николоямская, дом 13, стр.2<br>
+    <a href="/about/map/" class="b-footer-contacts__link">Показать на карте</a></p>
+</div>
+<div class="b-footer-contacts__item">
+    <p class="b-footer-contacts__title">Контакты</p>
+    <a href="tel:74952252354" class="b-footer-contacts__link -white">+7 (495) 225-34-44</a>
+    <a href="tel:74952252354" class="b-footer-contacts__link -white">+7 (495) 225-23-54</a>
+    <a href="mailto:info@raexpert.ru" class="b-footer-contacts__link -white">info@raexpert.ru</a>
+</div>
+<div class="b-footer-contacts__item">
+    <p class="b-footer-contacts__title">Наши каналы</p>
+        
+        
+    <div class="footer-contacts-wrapper">
+        <a href="https://www.youtube.com/channel/UCOfYASai0Meo6nLIb0OGObA" class="footer-contacts-icons -youtube" target="_blank"><img src="/_aaa/icon_q_youtube_white.svg"></a>
+        <a href="https://t.me/expert_ra" class="footer-contacts-icons -telegram" target="_blank"><img src="/_aaa/icon_q_telegram_white.svg"></a>
+        <a href="https://vk.com/expra" class="footer-contacts-icons -vk" target="_blank"><img src="/_aaa/icon_q_vk_white.svg"></a>
+    </div>
+</div>
+<div class="b-footer-contacts__item">
+    <p class="b-footer-contacts__title">Служба внутреннего контроля</p>
+    Высказать свое замечание или предложение Вы можете заполнив <a class="js-feedback-go b-footer-feedback__link">онлайн-форму</a>
+    </div>
+			</div>
+		</div>
+		<hr>
+		<div class="b-footer__wrapper">
+			<div class="b-footer__item">
+				<div class="b-footer__copyright">
+
+                    <p>© 2024 АО «Эксперт РА». Все материалы сайта являются интеллектуальной собственностью АО «Эксперт РА» (кроме случаев, когда прямо указано другое авторство) и охраняются законом. Представленная информация предназначена для использования исключительно в ознакомительных целях.</p>
+<p>Настоящая информация не может распространяться любым способом и в любой форме без предварительного согласия со стороны Агентства и ссылки на источник www.raexpert.ru<br>
+Использование информации в нарушение указанных требований запрещено.</p>
+<p>Рейтинговые оценки выражают мнение АО «Эксперт РА» и не являются установлением фактов или рекомендацией покупать, держать или продавать те или иные ценные бумаги или активы, принимать инвестиционные решения. Агентство не принимает на себя никакой ответственности в связи с любыми последствиями, интерпретациями, выводами, рекомендациями и иными действиями, прямо или косвенно связанными с рейтинговой оценкой, совершенными Агентством рейтинговыми действиями, а также выводами и заключениями, содержащимися в рейтинговом отчете и пресс-релизах, выпущенных агентством, или отсутствием всего перечисленного. Единственным источником, отражающим актуальное состояние рейтинговой оценки, является официальный сайт АО «Эксперт РА» www.raexpert.ru.</p>
+
+<div style="display: inline-block"><a href="/about/terms/" style="color: #818181"><p>Пользовательское соглашение</p></a></div>&nbsp;&nbsp;&nbsp;
+<div style="display: inline-block"><a href="/about/personaldata/" style="color: #818181"><p>Политика в отношении обработки персональных данных</p></a></div>&nbsp;&nbsp;&nbsp;
+<div style="display: inline-block"><a href="/about/cookie/" style="color: #818181"><p>Политика в отношении обработки файлов «Cookie» и метрических данных</p></a></div>
+				</div>
+			</div>
+		</div>
+	</footer>
+
+	<script src="/js/main.min.js"></script>
+
+</body>
+</html>
