@@ -27,24 +27,27 @@ def get_one_item_message(row):
 
 
 def main(**kwargs):
-    current_date = kwargs["ds"]
-    current_date = "2023-12-27"
+    current_date = kwargs['ds']
 
-    spark = (
-        SparkSession.builder.master("yarn")
-        .appName("ratings")
-        .config("spark.jars", "/usr/share/java/mysql-connector-java-8.2.0.jar")
+    spark = SparkSession.builder\
+        .master("local[*]")\
+        .appName("ratings")\
+        .config(
+            "spark.jars",
+            "/usr/share/java/mysql-connector-java-8.2.0.jar")\
         .getOrCreate()
-    )
 
-    # agg_df = spark.read.parquet(f"/user/tdkozachkin/project/AGGDATA/DT={current_date}")\
-    #     .toPandas()
+    agg_df = spark.read.parquet(
+        f"/user/tdkozachkin/project/AGGDATA/DT={current_date}")\
+        .toPandas()
     df = spark.read.parquet(f"/user/tdkozachkin/project/DATA/DT={current_date}")
-    df = df.filter(col("rat_date") == lit(current_date)).toPandas()
-    df["rat_date"] = df["rat_date"].dt.strftime("%Y-%m-%d")
+    df = df\
+        .filter(col("rat_date") == lit(current_date))\
+        .toPandas()
+    df['rat_date'] = df['rat_date'].dt.strftime('%Y-%m-%d')
 
     if len(df) == 0:
-        message_data = f"No updates on {current_date}"
+        message_data = f'No updates on {current_date}'
         send_tg_message(message_data)
     else:
         message = f"Credit ratings Updates on {current_date}:"
@@ -54,10 +57,10 @@ def main(**kwargs):
             message_data = get_one_item_message(df.iloc[i])
             send_tg_message(message_data)
 
-        # agg_message = "<i>Number of agencies ratings TODAY:</i>\n"
-        # for i in np.arange(len(agg_df)):
-        #     ag = agg_df.iloc[i]
-        #     agg_message += f"{ag['agency']} - {ag['num_ratings']} набл.\n"
-        # send_tg_message(agg_message)
+        agg_message = "<i>Number of agencies ratings TODAY:</i>\n"
+        for i in np.arange(len(agg_df)):
+            ag = agg_df.iloc[i]
+            agg_message += f"{ag['agency']} - {ag['num_ratings']} набл.\n"
+        send_tg_message(agg_message)
 
     spark.stop()
