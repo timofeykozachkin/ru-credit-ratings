@@ -1,27 +1,26 @@
-import requests
-from bs4 import BeautifulSoup
 import numpy as np
 import pandas as pd
+import requests
+from bs4 import BeautifulSoup
 
 
 def expert_ra_ratings():
     url = "https://raexpert.ru/ratings/bankcredit_all/"
     response = requests.get(url)
 
-    soup = BeautifulSoup(response.text, 'html.parser')
-    tables = soup.find_all('table')
-    spans = tables[1].find_all('span')
+    soup = BeautifulSoup(response.text, "html.parser")
+    tables = soup.find_all("table")
+    spans = tables[1].find_all("span")
     ratings = spans[8:]
-    result = {'name': [], 'rating': [], 'pred': [],
-              'rat_date': [], 'observation': []}
+    result = {"name": [], "rating": [], "pred": [], "rat_date": [], "observation": []}
 
     for i, span in enumerate(ratings):
         if i % 2 == 1:
-            observ = '-'
-            name = ratings[i-1].find('a').text
-            params = span.text.strip().split(',')
+            observ = "-"
+            name = ratings[i - 1].find("a").text
+            params = span.text.strip().split(",")
             if len(params) == 2:
-                pred = '-'
+                pred = "-"
             elif len(params) == 3:
                 pred = params[-2].strip()
             elif len(params) == 4:
@@ -34,41 +33,38 @@ def expert_ra_ratings():
             rat = params[0].strip()
             rat_date = params[-1].strip()
 
-            result['name'].append(name)
-            result['rating'].append(rat)
-            result['pred'].append(pred)
-            result['rat_date'].append(rat_date)
-            result['observation'].append(observ)
+            result["name"].append(name)
+            result["rating"].append(rat)
+            result["pred"].append(pred)
+            result["rat_date"].append(rat_date)
+            result["observation"].append(observ)
 
     df = pd.DataFrame(result)
-    df['agency'] = 'Эксперт РА'
+    df["agency"] = "Эксперт РА"
 
     return df
 
 
 def expert_ra_archive():
-    result = {'name': [], 'rating': [], 'pred': [],
-              'rat_date': [], 'observation': []}
+    result = {"name": [], "rating": [], "pred": [], "rat_date": [], "observation": []}
 
     for i in np.arange(2, 16):
-        with open(
-            f'/opt/hadoop/airflow/dags/tdkozachkin/archive/{i}.txt'
-        ) as f:
+        with open(f"/archive/{i}.txt") as f:
             lines = f.read()
 
-        soup = BeautifulSoup(lines, 'html.parser')
-        tables = soup.find_all('table')
+        soup = BeautifulSoup(lines, "html.parser")
+        tables = soup.find_all("table")
 
-        spans = tables[1].find_all('span')
+        spans = tables[1].find_all("span")
         ratings = spans[8:]
 
         for i, span in enumerate(ratings):
             if i % 2 == 1:
-                observ = '-'
-                name = ratings[i-1].find('a').text
-                params = span.text.strip().split(',')
+                observ = "-"
+                name = ratings[i - 1].find("a").text
+                params = span.text.strip().split(",")
                 if len(params) == 2:
-                    pred = '-'
+                    pred = "-"
                 elif len(params) == 3:
                     pred = params[-2].strip()
                 elif len(params) == 4:
@@ -81,13 +77,13 @@ def expert_ra_archive():
                 rat = params[0].strip()
                 rat_date = params[-1].strip()
 
-                result['name'].append(name)
-                result['rating'].append(rat)
-                result['pred'].append(pred)
-                result['rat_date'].append(rat_date)
-                result['observation'].append(observ)
+                result["name"].append(name)
+                result["rating"].append(rat)
+                result["pred"].append(pred)
+                result["rat_date"].append(rat_date)
+                result["observation"].append(observ)
 
     df = pd.DataFrame(result)
-    df['agency'] = 'Эксперт РА'
+    df["agency"] = "Эксперт РА"
 
     return df

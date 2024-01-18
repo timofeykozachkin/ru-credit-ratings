@@ -1,7 +1,7 @@
+import numpy as np
 import telebot
 from pyspark.sql import SparkSession
-from pyspark.sql.functions import lit, col
-import numpy as np
+from pyspark.sql.functions import col, lit
 
 
 def many_items_message(df):
@@ -21,39 +21,47 @@ def many_items_message(df):
             """
     return message
 
+
 token = "6719020665:AAG9wfbiG-eAa8TP3ZNPdTFw2qI2vt4FcL8"
 bot = telebot.TeleBot(token, parse_mode="HTML")
 
-@bot.message_handler(commands=['start'])
-def start_message(message):
-    bot.send_message(message.chat.id, "Привет, по твоему названию банка я пришлю доступные для него рейтинги")
 
-@bot.message_handler(content_types=['text'])
+@bot.message_handler(commands=["start"])
+def start_message(message):
+    bot.send_message(
+        message.chat.id,
+        "Привет, по твоему названию банка я пришлю доступные для него рейтинги",
+    )
+
+
+@bot.message_handler(content_types=["text"])
 def echo(message):
     bot.send_message(message.chat.id, text=f"Ищу...")
     bank_name = (f"{message.text}").lower()
 
-    spark = SparkSession.builder\
-            .master("local[*]")\
-            .appName("ratings")\
-            .config("spark.jars", "/usr/share/java/mysql-connector-java-8.2.0.jar")\
-            .getOrCreate()
+    spark = (
+        SparkSession.builder.master("local[*]")
+        .appName("ratings")
+        .config("spark.jars", "/usr/share/java/mysql-connector-java-8.2.0.jar")
+        .getOrCreate()
+    )
 
-    df = spark\
-        .read\
-        .format('jdbc')\
-        .option('driver', 'com.mysql.cj.jdbc.Driver')\
-        .option('url', 'jdbc:mysql://localhost:3306/hse')\
-        .option('dbtable', 'credit_ratings')\
-        .option('user', 'arhimag')\
-        .option('password', 'password57')\
+    df = (
+        spark.read.format("jdbc")
+        .option("driver", "com.mysql.cj.jdbc.Driver")
+        .option("url", "jdbc:mysql://localhost:3306/hse")
+        .option("dbtable", "credit_ratings")
+        .option("user", "arhimag")
+        .option("password", "password57")
         .load()
+    )
 
-    df = df\
-        .where(col('name').like(f"%{bank_name}%"))\
-        .toPandas()
-    
+    df = df.where(col("name").like(f"%{bank_name}%")).toPandas()
+
     answer = many_items_message(df)
     bot.send_message(message.chat.id, text=answer)
+
+    spark.stop()
+
 
 bot.infinity_polling()
