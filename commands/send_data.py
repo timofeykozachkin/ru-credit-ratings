@@ -3,8 +3,6 @@ import requests
 from pyspark.sql import SparkSession
 from pyspark.sql.functions import col, lit
 
-# from tg_bot.tg_channel_updates import send_tg_message, get_one_item_message
-
 
 def send_tg_message(message):
     BOT_TOKEN = "6719020665:AAG9wfbiG-eAa8TP3ZNPdTFw2qI2vt4FcL8"
@@ -37,9 +35,6 @@ def main(**kwargs):
             "/usr/share/java/mysql-connector-java-8.2.0.jar")\
         .getOrCreate()
 
-    agg_df = spark.read.parquet(
-        f"/user/tdkozachkin/project/AGGDATA/DT={current_date}")\
-        .toPandas()
     df = spark.read.parquet(f"/user/tdkozachkin/project/DATA/DT={current_date}")
     df = df\
         .filter(col("rat_date") == lit(current_date))\
@@ -57,6 +52,9 @@ def main(**kwargs):
             message_data = get_one_item_message(df.iloc[i])
             send_tg_message(message_data)
 
+        agg_df = spark.read.parquet(
+            f"/user/tdkozachkin/project/AGGDATA/DT={current_date}")\
+            .toPandas()
         agg_message = "<i>Number of agencies ratings TODAY:</i>\n"
         for i in np.arange(len(agg_df)):
             ag = agg_df.iloc[i]

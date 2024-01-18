@@ -18,6 +18,11 @@ def main(**kwargs):
         .write\
         .mode("append")\
         .format("jdbc")\
+        .option(
+            "createTableColumnTypes",
+            """name VARCHAR(128), rating VARCHAR(128),
+            pred VARCHAR(128), rat_date DATE,
+            observation VARCHAR(128), agency VARCHAR(128)""")\
         .option("driver", "com.mysql.cj.jdbc.Driver")\
         .option("url", "jdbc:mysql://localhost:3306/hse")\
         .option("dbtable", "credit_ratings")\
@@ -33,6 +38,9 @@ def main(**kwargs):
         .write\
         .mode("append")\
         .format("jdbc")\
+        .option(
+            "createTableColumnTypes",
+            "agency VARCHAR(128), num_ratings INT, record_date DATE")\
         .option("driver", "com.mysql.cj.jdbc.Driver")\
         .option("url", "jdbc:mysql://localhost:3306/hse")\
         .option("dbtable", "agencies_stats")\
@@ -48,6 +56,10 @@ def main(**kwargs):
         .write\
         .mode("append")\
         .format("jdbc")\
+        .option(
+            "createTableColumnTypes",
+            """agency VARCHAR(128), rating VARCHAR(128),
+            num_ratings INT, record_date DATE""")\
         .option("driver", "com.mysql.cj.jdbc.Driver")\
         .option("url", "jdbc:mysql://localhost:3306/hse")\
         .option("dbtable", "agencies_stats_full")\
