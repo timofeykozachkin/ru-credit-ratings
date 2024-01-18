@@ -247,23 +247,18 @@ with DAG(
     @task(task_id='get_data')
     def get_data(**kwargs):
         current_date = kwargs['ds']
-        current_date = '2024-01-18'
         df1 = expert_ra_ratings()
-        # df2 = df1.copy().iloc[0:0]
-        df2 = expert_ra_archive()
         df3 = nkr_ratings()
         df4 = nra_ratings()
         pd_df = pd.concat([df1, df3], ignore_index=True)
         pd_df = pd.concat([pd_df, df4], ignore_index=True)
-        pd_df = pd.concat([pd_df, df2], ignore_index=True)
 
         pd_df['rat_date'] = pd_df['rat_date'].str.replace('.', '-', regex=False)
         pd_df['rat_date'] = pd.to_datetime(pd_df['rat_date'], format="%d-%m-%Y")
 
         pd_current_date = pd.to_datetime(current_date, format='%Y-%m-%d')
 
-        # pd_df = pd_df[pd_df['rat_date'] == pd_current_date]
-        # pd_df = pd_df[pd_df['rat_date'] <= pd_current_date]
+        pd_df = pd_df[pd_df['rat_date'] == pd_current_date]
 
         spark = SparkSession.builder\
             .master("local[*]")\
@@ -291,7 +286,6 @@ with DAG(
     @task(task_id="agg_data_agencies")
     def agg_data(**kwargs):
         current_date = kwargs['ds']
-        current_date = '2024-01-18'
         spark = SparkSession.builder\
             .master("local[*]")\
             .appName('ratings_task')\
@@ -313,9 +307,7 @@ with DAG(
         df_agg_stats = df\
             .groupBy("agency", "rating")\
             .agg(
-                count(col("name")).alias("num_ratings"),
-                max(col("rat_date")).alias("max_date"),
-                min(col("rat_date")).alias("max_date")
+                count(col("name")).alias("num_ratings")
             )
 
         df_agg_stats\
@@ -339,7 +331,6 @@ with DAG(
     @task(task_id="to_mysql_ratings")
     def upload_to_mysql(**kwargs):
         current_date = kwargs['ds']
-        current_date = '2024-01-18'
 
         spark = SparkSession.builder\
             .master("local[*]")\
@@ -351,7 +342,7 @@ with DAG(
 
         df\
             .write\
-            .mode("overwrite")\
+            .mode("append")\
             .format("jdbc")\
             .option("driver", "com.mysql.cj.jdbc.Driver")\
             .option("url", "jdbc:mysql://localhost:3306/hse")\
@@ -366,7 +357,7 @@ with DAG(
         df_agg\
             .withColumn("record_date", lit(current_date).cast(DateType()))\
             .write\
-            .mode("overwrite")\
+            .mode("append")\
             .format("jdbc")\
             .option("driver", "com.mysql.cj.jdbc.Driver")\
             .option("url", "jdbc:mysql://localhost:3306/hse")\
@@ -381,7 +372,7 @@ with DAG(
         df_agg_stats\
             .withColumn("record_date", lit(current_date).cast(DateType()))\
             .write\
-            .mode("overwrite")\
+            .mode("append")\
             .format("jdbc")\
             .option("driver", "com.mysql.cj.jdbc.Driver")\
             .option("url", "jdbc:mysql://localhost:3306/hse")\
@@ -396,7 +387,7 @@ with DAG(
         df_agg_date\
             .withColumn("record_date", lit(current_date).cast(DateType()))\
             .write\
-            .mode("overwrite")\
+            .mode("append")\
             .format("jdbc")\
             .option("driver", "com.mysql.cj.jdbc.Driver")\
             .option("url", "jdbc:mysql://localhost:3306/hse")\
@@ -410,7 +401,6 @@ with DAG(
     @task(task_id="to_tgchat_message")
     def tg_bot_message(**kwargs):
         current_date = kwargs['ds']
-        current_date = '2024-01-18'
 
         spark = SparkSession.builder\
             .master("local[*]")\

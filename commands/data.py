@@ -2,9 +2,11 @@ import sys
 
 import pandas as pd
 from pyspark.sql import SparkSession
+from pyspark.sql.functions import col
+from pyspark.sql.types import StringType, DateType
 
 sys.path.append("./")
-from parsers.expert_ra import expert_ra_archive, expert_ra_ratings
+from parsers.expert_ra import expert_ra_ratings
 from parsers.nkr import nkr_ratings
 from parsers.nra import nra_ratings
 
@@ -16,7 +18,7 @@ def main(**kwargs):
     df4 = nra_ratings()
     pd_df = pd.concat([df1, df3], ignore_index=True)
     pd_df = pd.concat([pd_df, df4], ignore_index=True)
-    
+
     pd_df['rat_date'] = pd_df['rat_date'].str.replace('.', '-', regex=False)
     pd_df['rat_date'] = pd.to_datetime(pd_df['rat_date'], format="%d-%m-%Y")
 

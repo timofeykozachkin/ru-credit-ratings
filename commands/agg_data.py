@@ -4,7 +4,7 @@ from pyspark.sql.functions import col, count
 
 def main(**kwargs):
     current_date = kwargs['ds']
-    
+
     spark = SparkSession.builder\
         .master("local[*]")\
         .appName('ratings_task')\
@@ -26,9 +26,7 @@ def main(**kwargs):
     df_agg_stats = df\
         .groupBy("agency", "rating")\
         .agg(
-            count(col("name")).alias("num_ratings"),
-            max(col("rat_date")).alias("max_date"),
-            min(col("rat_date")).alias("max_date")
+            count(col("name")).alias("num_ratings")
         )
 
     df_agg_stats\
