@@ -247,23 +247,17 @@ with DAG(
     @task(task_id='get_data')
     def get_data(**kwargs):
         current_date = kwargs['ds']
-        current_date = '2024-01-17'
         df1 = expert_ra_ratings()
-        # df2 = df1.copy().iloc[0:0]
-        df2 = expert_ra_archive()
         df3 = nkr_ratings()
         df4 = nra_ratings()
         pd_df = pd.concat([df1, df3], ignore_index=True)
         pd_df = pd.concat([pd_df, df4], ignore_index=True)
-        pd_df = pd.concat([pd_df, df2], ignore_index=True)
 
         pd_df['rat_date'] = pd_df['rat_date'].str.replace('.', '-', regex=False)
         pd_df['rat_date'] = pd.to_datetime(pd_df['rat_date'], format="%d-%m-%Y")
 
         pd_current_date = pd.to_datetime(current_date, format='%Y-%m-%d')
-
-        # pd_df = pd_df[pd_df['rat_date'] == pd_current_date]
-        pd_df = pd_df[pd_df['rat_date'] <= pd_current_date]
+        pd_df = pd_df[pd_df['rat_date'] == pd_current_date]
 
         spark = SparkSession.builder\
             .master("local[*]")\
@@ -291,7 +285,7 @@ with DAG(
     @task(task_id="agg_data_agencies")
     def agg_data(**kwargs):
         current_date = kwargs['ds']
-        current_date = '2024-01-17'
+
         spark = SparkSession.builder\
             .master("local[*]")\
             .appName('ratings_task')\
@@ -337,7 +331,6 @@ with DAG(
     @task(task_id="to_mysql_ratings")
     def upload_to_mysql(**kwargs):
         current_date = kwargs['ds']
-        current_date = '2024-01-17'
 
         spark = SparkSession.builder\
             .master("local[*]")\
@@ -349,11 +342,13 @@ with DAG(
 
         df\
             .write\
-            .mode("overwrite")\
+            .mode("append")\
             .format("jdbc")\
             .option(
                 "createTableColumnTypes",
-                "name VARCHAR(128), rating VARCHAR(128), pred VARCHAR(128), rat_date DATE, observation VARCHAR(128), agency VARCHAR(128)")\
+                """name VARCHAR(128), rating VARCHAR(128),
+                pred VARCHAR(128), rat_date DATE,
+                observation VARCHAR(128), agency VARCHAR(128)""")\
             .option("driver", "com.mysql.cj.jdbc.Driver")\
             .option("url", "jdbc:mysql://localhost:3306/hse")\
             .option("dbtable", "kzch_credit_ratings")\
@@ -367,7 +362,7 @@ with DAG(
         df_agg\
             .withColumn("record_date", lit(current_date).cast(DateType()))\
             .write\
-            .mode("overwrite")\
+            .mode("append")\
             .format("jdbc")\
             .option(
                 "createTableColumnTypes",
@@ -385,11 +380,12 @@ with DAG(
         df_agg_stats\
             .withColumn("record_date", lit(current_date).cast(DateType()))\
             .write\
-            .mode("overwrite")\
+            .mode("append")\
             .format("jdbc")\
             .option(
                 "createTableColumnTypes",
-                "agency VARCHAR(128), rating VARCHAR(128), num_ratings INT, record_date DATE")\
+                """agency VARCHAR(128), rating VARCHAR(128),
+                num_ratings INT, record_date DATE""")\
             .option("driver", "com.mysql.cj.jdbc.Driver")\
             .option("url", "jdbc:mysql://localhost:3306/hse")\
             .option("dbtable", "kzch_agencies_stats_full")\
@@ -403,7 +399,7 @@ with DAG(
         df_agg_date\
             .withColumn("record_date", lit(current_date).cast(DateType()))\
             .write\
-            .mode("overwrite")\
+            .mode("append")\
             .format("jdbc")\
             .option("driver", "com.mysql.cj.jdbc.Driver")\
             .option("url", "jdbc:mysql://localhost:3306/hse")\
@@ -417,7 +413,6 @@ with DAG(
     @task(task_id="to_tgchat_message")
     def tg_bot_message(**kwargs):
         current_date = kwargs['ds']
-        current_date = '2024-01-17'
 
         spark = SparkSession.builder\
             .master("local[*]")\
@@ -427,11 +422,19 @@ with DAG(
                 "/usr/share/java/mysql-connector-java-8.2.0.jar")\
             .getOrCreate()
 
-        df = spark.read.parquet(f"/user/tdkozachkin/project/DATA/DT={current_date}")
+        df = spark\
+            .read\
+            .format('jdbc')\
+            .option('driver', 'com.mysql.cj.jdbc.Driver')\
+            .option('url', 'jdbc:mysql://localhost:3306/hse')\
+            .option('dbtable', 'kzch_credit_ratings')\
+            .option('user', 'arhimag')\
+            .option('password', 'password57')\
+            .load()
+
         df = df\
             .filter(col("rat_date") == lit(current_date))\
             .toPandas()
-        df['rat_date'] = df['rat_date'].dt.strftime('%Y-%m-%d')
 
         if len(df) == 0:
             message_data = f'No updates on {current_date}'

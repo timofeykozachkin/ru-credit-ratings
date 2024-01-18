@@ -56,7 +56,7 @@ def message_reply_date(message):
         .format('jdbc')\
         .option('driver', 'com.mysql.cj.jdbc.Driver')\
         .option('url', 'jdbc:mysql://localhost:3306/hse')\
-        .option('dbtable', 'credit_ratings')\
+        .option('dbtable', 'kzch_credit_ratings')\
         .option('user', 'arhimag')\
         .option('password', 'password57')\
         .load()
@@ -77,7 +77,6 @@ def message_reply_name(message):
     bot.send_message(message.chat.id, text=f"Ищу...")
     bank_name = (f"{message.text}").lower()
 
-    # .config("spark.jars", "/usr/share/java/mysql-connector-java-8.2.0.jar")
     spark = SparkSession.builder\
             .master("local[*]")\
             .appName('ratings_task')\
@@ -89,7 +88,7 @@ def message_reply_name(message):
         .format('jdbc')\
         .option('driver', 'com.mysql.cj.jdbc.Driver')\
         .option('url', 'jdbc:mysql://localhost:3306/hse')\
-        .option('dbtable', 'credit_ratings')\
+        .option('dbtable', 'kzch_credit_ratings')\
         .option('user', 'arhimag')\
         .option('password', 'password57')\
         .load()
