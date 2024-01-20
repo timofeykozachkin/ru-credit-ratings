@@ -22,7 +22,7 @@ def many_items_message(df):
             """
     return message
 
-token = "6719020665:AAG9wfbiG-eAa8TP3ZNPdTFw2qI2vt4FcL8"
+# token = "" in secrets
 bot = telebot.TeleBot(token, parse_mode="HTML")
 keyboard = telebot.types.ReplyKeyboardMarkup(row_width=1, resize_keyboard=True)
 button1 = telebot.types.KeyboardButton('Найти по дате')

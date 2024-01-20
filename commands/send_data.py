@@ -4,9 +4,7 @@ from pyspark.sql import SparkSession
 from pyspark.sql.functions import col, lit
 
 
-def send_tg_message(message):
-    BOT_TOKEN = "6719020665:AAG9wfbiG-eAa8TP3ZNPdTFw2qI2vt4FcL8"
-    CHANNEL_ID = "-1002095900488"
+def send_tg_message(message, BOT_TOKEN, CHANNEL_ID):
     url = f"https://api.telegram.org/bot{BOT_TOKEN}/sendMessage"
     data = {"chat_id": CHANNEL_ID, "text": message, "parse_mode": "HTML"}
     response = requests.post(url, data=data)
